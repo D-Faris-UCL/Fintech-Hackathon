@@ -18,24 +18,23 @@
     </div>
         <div class="container mt-5">
             <h2> Stock Input </h2>
-            <form>
+            <form method = "post">
                 <div class="form-row">
                     <div class="form-group col-md-6">
                             <label for="exampleDataList" class="form-label"></label>
-                            <input class="form-control" list="datalistOptions" id="symbol" placeholder="Enter stock symbol">
+                            <input class="form-control" list="datalistOptions" id="symbol" placeholder="Enter stock symbol" name="symbol">
                             <datalist id="datalistOptions">
                             </datalist>
                     </div>
                     <div class="form-group col-md-6">
                         <label for="number"></label>
-                        <input type="number" class="form-control" id="amount" placeholder="Enter the amount of shares" required>
+                        <input type="number" class="form-control" id="amount" placeholder="Enter the amount of shares" required name="amount">
                     </div>
                     <div class="container">
                         <div class="text-center">
-                            <button class="btn btn-secondary stock"> Submit </button>
+                            <button type = "submit" class="btn btn-secondary stock"> Submit </button>
                         </div>
                     </div>
-
                 </div>
                 
             </form>
@@ -53,27 +52,23 @@
                       </tr>
                     </thead>
                     <tbody>
+                      {% for stock in stocks %}
                       <tr>
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
-                        <td>@fat</td>
+                        <td>{{stock.symbol}}</td>
+                        <td>{{stock.name}}</td>
+                        <td id=price{{stock.symbol}}>{{stock.price}}</td>
+                        <td>{{stock.amount}}</td>
+                        <td id=amount{{stock.symbol}}>{{stock.value}}</td>
+                        <td>{{stock.esg}}</td>
+                        <td>
+                          <form method = "post" action = "/remove">
+                            <input name = "symbol" type = "hidden" value = "{{stock.symbol}}">
+                            <button type = "submit" class = "btn btn-secondary">Remove</button>
+                          </form>
+                        </td>
+
                       </tr>
-                      <tr>
-                        <th scope="row">2</th>
-                        <td>Jacob</td>
-                        <td>Thornton</td>
-                        <td>@fat</td>
-                        <td>@fat</td>
-                      </tr>
-                      <tr>
-                        <th scope="row">3</th>
-                        <td>Larry</td>
-                        <td>the Bird</td>
-                        <td>@twitter</td>
-                        <td>@fat</td>
-                      </tr>
+                      {% endfor %}
                     </tbody>
                   </table>
                 
@@ -81,12 +76,19 @@
             <div class="container mt-5">
                 <h3 class = "mt-3"> My ESG score </h4>
                 <div class="m-2">
-                    <h2 class = "text-center myESG"></h2>
+                  {% if my_esg >= 0 and my_esg < 15 %}
+                    <h2 class = "text-center myESG" style="color:green">{{my_esg}}</h2>
+                  {% elif my_esg > 15 and my_esg < 30 %}
+                    <h2 class = "text-center myESG" style="color:yellow">{{my_esg}}</h2>
+                  {% else %}
+                    <h2 class = "text-center myESG" style="color:red">{{my_esg}}</h2>
+                  {% endif %}
+                    
                 </div>
                 
             </div>
             <div class="container mt-5">
-                <h4 class = "mt-3"> Recommendations </h4>
+              <h4 class = "mt-3"> Recommendations </h4>
             </div>
             <br>
             <br>
