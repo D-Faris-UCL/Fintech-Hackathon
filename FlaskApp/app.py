@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+import currentStock
 import script  # Import your script
 
 app = Flask(__name__)
