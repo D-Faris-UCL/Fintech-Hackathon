@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request, session, redirect, jsonify
 from cs50 import SQL
 from currentStock import get_current_stock_price, get_current_stock_name, get_current_stock_esg
+import predictionmodel
 import script  # Import your script
 
 app = Flask(__name__)
@@ -58,7 +59,9 @@ def get_data():
 @app.route("/recommendation", methods=["GET", "POST"])
 def recommendation():
     if request.method == "POST":
-        pass
+        sustainability = request.form.get("sustainability")
+        returns = request.form.get("returns")
+        risk = request.form.get("risk")
     return render_template("recommendation.html")
 
 

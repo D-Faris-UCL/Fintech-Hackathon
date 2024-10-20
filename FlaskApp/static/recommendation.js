@@ -9,17 +9,17 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     let slider_returns = document.getElementById("returns");
     let p_returns = document.getElementById("p_returns");
-    p_returns.innerHTML = `Sustainability: ${slider_returns.value}`;
+    p_returns.innerHTML = `Returns: ${slider_returns.value}`;
     // Update the current slider value (each time you drag the slider handle)
     slider_returns.oninput = function(){
         p_returns.innerHTML = `Returns: ${this.value}`;
     }
     let slider_risk = document.getElementById("risk");
     let p_risk = document.getElementById("p_risk");
-    p_risk.innerHTML = `Sustainability: ${slider_risk.value}`;
+    p_risk.innerHTML = `Risk: ${slider_risk.value}`;
     // Update the current slider value (each time you drag the slider handle)
     slider_risk.oninput = function(){
-        p_risk.innerHTML = `Returns: ${this.value}`;
+        p_risk.innerHTML = `Risk: ${this.value}`;
     }
 
 });
