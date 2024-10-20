@@ -14,13 +14,40 @@
     <link rel="stylesheet" href="{{url_for('static', filename='css/main.css')}}" />
   </head>
   <body>
-    <div class="m-5">
+    <a href = "/" class=>
+        <div class="header-container container m-3">
+          <img src="{{url_for('static', filename='images/logo.png')}}" alt="SUSTech" class="img-fluid" width = "10%" height = "10%">
         <h1 class = "text-center">SUSTech</h1>
-    </div>
-    <div class = "m-5">
-        <a href="/" class="btn btn-light">Home</a>
+        </div>
+    </a>
+  
+    <hr>
+    <div class="container mt-4">
+        <h4> Adjust preferences </h4>
+        <br>
+        <form method = "post">
+            <p id = "p_sustainability">Sustainability: 50</p>
+            <div class="slidecontainer">
+                <input type="range" min="1" max="100" value="50" class="slider" id="sustainability" name = "sustainability">
+            </div>
+
+            <p id = "p_returns">Returns: 50</p>
+            <div class="slidecontainer">
+                <input type="range" min="1" max="100" value="50" class="slider" id="returns" name = "Returns">
+            </div>
+
+            <p id = "p_risk">Risk: 50</p>
+            <div class="slidecontainer">
+                <input type="range" min="1" max="100" value="50" class="slider" id="risk" name = "Risk">
+            </div>
+            <br>
+            <div class="text-center">
+                <button type = "submit" class="btn btn-secondary stock" id = "button_eco"> Get Recommendations </button>
+            </div>
+        </form>
+
     </div>
 
-
+    <script src="{{url_for('static', filename='recommendation.js')}}"></script>
   </body>
 </html>

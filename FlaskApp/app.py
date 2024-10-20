@@ -55,9 +55,13 @@ def get_data():
     print(package)
     return jsonify(package)
 
-@app.route("/recommendation", methods=["GET"])
+@app.route("/recommendation", methods=["GET", "POST"])
 def recommendation():
+    if request.method == "POST":
+        pass
     return render_template("recommendation.html")
+
+
 
 
 
