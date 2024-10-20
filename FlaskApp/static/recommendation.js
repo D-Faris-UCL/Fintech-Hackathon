@@ -22,4 +22,33 @@ document.addEventListener("DOMContentLoaded", (event) => {
         p_risk.innerHTML = `Risk: ${this.value}`;
     }
 
+    const recommendations = document.querySelectorAll(".recommendation");
+    recommendations.forEach((recommendation) => {
+        recommendation.addEventListener("click", (event) => {
+            value = event.target.value;
+            console.log(value);
+            description = document.querySelector(`#${value}`);
+            console.log(description);
+            if (description.classList.contains("hidden")) {
+                description.classList.remove("hidden");
+            } else {
+                description.classList.add("hidden");
+            }
+        });
+    });
+    fetch("static/combined_data.json")
+    .then((response) => response.json())
+    .then((data) => {
+      const datalist = document.getElementById("datalistOptions");
+      // Generate HTML dynamically
+      for (const company in data) {
+        const dataoption = document.createElement("option");
+        dataoption.setAttribute("value", `${company}`);
+        datalist.appendChild(dataoption);
+      }
+    })
+    .catch((error) => console.error("Error fetching data:", error));
+
+
+
 });

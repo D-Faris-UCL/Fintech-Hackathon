@@ -68,5 +68,17 @@ a:hover {
 
 }
 
+.hidden{
+  display: none;
+}
+.select_custom {
+  background: #d3d3d3;
+  width: 100%; /* Set your desired width */
+  border-radius: 25px;
+  height:200%;
+  font-family: 'Arial';
+
+}
+
 
 
