@@ -1,0 +1,4196 @@
+{
+    "AAPL": {
+        "week1Prediction": {
+            "Predicted Price": 221.45718383789062,
+            "Price Growth": -13.542816162109375
+        },
+        "week2Prediction": {
+            "Predicted Price": 221.4672393798828,
+            "Price Growth": -13.532760620117188
+        },
+        "week3Prediction": {
+            "Predicted Price": 221.15298461914062,
+            "Price Growth": -13.847015380859375
+        },
+        "week4Prediction": {
+            "Predicted Price": 219.86947631835938,
+            "Price Growth": -15.130523681640625
+        }
+    },
+    "MSFT": {
+        "week1Prediction": {
+            "Predicted Price": 420.42449951171875,
+            "Price Growth": 2.264495849609375
+        },
+        "week2Prediction": {
+            "Predicted Price": 416.35687255859375,
+            "Price Growth": -1.803131103515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 417.090576171875,
+            "Price Growth": -1.069427490234375
+        },
+        "week4Prediction": {
+            "Predicted Price": 417.76019287109375,
+            "Price Growth": -0.399810791015625
+        }
+    },
+    "NVDA": {
+        "week1Prediction": {
+            "Predicted Price": 100.78711700439453,
+            "Price Growth": -37.21288299560547
+        },
+        "week2Prediction": {
+            "Predicted Price": 101.48751831054688,
+            "Price Growth": -36.512481689453125
+        },
+        "week3Prediction": {
+            "Predicted Price": 101.00059509277344,
+            "Price Growth": -36.99940490722656
+        },
+        "week4Prediction": {
+            "Predicted Price": 97.60263061523438,
+            "Price Growth": -40.397369384765625
+        }
+    },
+    "GOOGL": {
+        "week1Prediction": {
+            "Predicted Price": 166.87371826171875,
+            "Price Growth": 3.4537200927734375
+        },
+        "week2Prediction": {
+            "Predicted Price": 167.32791137695312,
+            "Price Growth": 3.9079132080078125
+        },
+        "week3Prediction": {
+            "Predicted Price": 166.70571899414062,
+            "Price Growth": 3.2857208251953125
+        },
+        "week4Prediction": {
+            "Predicted Price": 167.96913146972656,
+            "Price Growth": 4.54913330078125
+        }
+    },
+    "GOOG": {
+        "week1Prediction": {
+            "Predicted Price": 168.05455017089844,
+            "Price Growth": 3.004547119140625
+        },
+        "week2Prediction": {
+            "Predicted Price": 168.53504943847656,
+            "Price Growth": 3.48504638671875
+        },
+        "week3Prediction": {
+            "Predicted Price": 167.7857208251953,
+            "Price Growth": 2.7357177734375
+        },
+        "week4Prediction": {
+            "Predicted Price": 169.01393127441406,
+            "Price Growth": 3.96392822265625
+        }
+    },
+    "AMZN": {
+        "week1Prediction": {
+            "Predicted Price": 184.02357482910156,
+            "Price Growth": -4.9664306640625
+        },
+        "week2Prediction": {
+            "Predicted Price": 183.6653289794922,
+            "Price Growth": -5.324676513671875
+        },
+        "week3Prediction": {
+            "Predicted Price": 183.4560546875,
+            "Price Growth": -5.5339508056640625
+        },
+        "week4Prediction": {
+            "Predicted Price": 181.98902893066406,
+            "Price Growth": -7.0009765625
+        }
+    },
+    "META": {
+        "week1Prediction": {
+            "Predicted Price": 591.4676513671875,
+            "Price Growth": 14.9976806640625
+        },
+        "week2Prediction": {
+            "Predicted Price": 598.9591064453125,
+            "Price Growth": 22.4891357421875
+        },
+        "week3Prediction": {
+            "Predicted Price": 596.5408325195312,
+            "Price Growth": 20.07086181640625
+        },
+        "week4Prediction": {
+            "Predicted Price": 597.3685913085938,
+            "Price Growth": 20.89862060546875
+        }
+    },
+    "AVGO": {
+        "week1Prediction": {
+            "Predicted Price": 160.11282348632812,
+            "Price Growth": -19.777175903320312
+        },
+        "week2Prediction": {
+            "Predicted Price": 160.4082489013672,
+            "Price Growth": -19.48175048828125
+        },
+        "week3Prediction": {
+            "Predicted Price": 158.9690399169922,
+            "Price Growth": -20.92095947265625
+        },
+        "week4Prediction": {
+            "Predicted Price": 154.98390197753906,
+            "Price Growth": -24.906097412109375
+        }
+    },
+    "TSLA": {
+        "week1Prediction": {
+            "Predicted Price": 239.77125549316406,
+            "Price Growth": 19.071258544921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 228.93502807617188,
+            "Price Growth": 8.235031127929688
+        },
+        "week3Prediction": {
+            "Predicted Price": 220.92819213867188,
+            "Price Growth": 0.2281951904296875
+        },
+        "week4Prediction": {
+            "Predicted Price": 224.57757568359375,
+            "Price Growth": 3.8775787353515625
+        }
+    },
+    "ASML": {
+        "week1Prediction": {
+            "Predicted Price": 824.00537109375,
+            "Price Growth": 100.745361328125
+        },
+        "week2Prediction": {
+            "Predicted Price": 808.2349243164062,
+            "Price Growth": 84.97491455078125
+        },
+        "week3Prediction": {
+            "Predicted Price": 794.6333618164062,
+            "Price Growth": 71.37335205078125
+        },
+        "week4Prediction": {
+            "Predicted Price": 776.607421875,
+            "Price Growth": 53.347412109375
+        }
+    },
+    "COST": {
+        "week1Prediction": {
+            "Predicted Price": 915.62841796875,
+            "Price Growth": 26.06842041015625
+        },
+        "week2Prediction": {
+            "Predicted Price": 919.3369140625,
+            "Price Growth": 29.77691650390625
+        },
+        "week3Prediction": {
+            "Predicted Price": 927.4913330078125,
+            "Price Growth": 37.93133544921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 937.1373291015625,
+            "Price Growth": 47.57733154296875
+        }
+    },
+    "NFLX": {
+        "week1Prediction": {
+            "Predicted Price": 728.0235595703125,
+            "Price Growth": -35.866455078125
+        },
+        "week2Prediction": {
+            "Predicted Price": 739.4362182617188,
+            "Price Growth": -24.45379638671875
+        },
+        "week3Prediction": {
+            "Predicted Price": 747.39404296875,
+            "Price Growth": -16.4959716796875
+        },
+        "week4Prediction": {
+            "Predicted Price": 755.7957763671875,
+            "Price Growth": -8.09423828125
+        }
+    },
+    "AMD": {
+        "week1Prediction": {
+            "Predicted Price": 162.29405212402344,
+            "Price Growth": 6.3240509033203125
+        },
+        "week2Prediction": {
+            "Predicted Price": 161.90518188476562,
+            "Price Growth": 5.9351806640625
+        },
+        "week3Prediction": {
+            "Predicted Price": 158.33929443359375,
+            "Price Growth": 2.369293212890625
+        },
+        "week4Prediction": {
+            "Predicted Price": 155.3246307373047,
+            "Price Growth": -0.6453704833984375
+        }
+    },
+    "ADBE": {
+        "week1Prediction": {
+            "Predicted Price": 496.3310546875,
+            "Price Growth": 1.431060791015625
+        },
+        "week2Prediction": {
+            "Predicted Price": 490.2315368652344,
+            "Price Growth": -4.66845703125
+        },
+        "week3Prediction": {
+            "Predicted Price": 485.76544189453125,
+            "Price Growth": -9.134552001953125
+        },
+        "week4Prediction": {
+            "Predicted Price": 484.2244873046875,
+            "Price Growth": -10.675506591796875
+        }
+    },
+    "AZN": {
+        "week1Prediction": {
+            "Predicted Price": 74.23881530761719,
+            "Price Growth": -4.021186828613281
+        },
+        "week2Prediction": {
+            "Predicted Price": 73.9227294921875,
+            "Price Growth": -4.337272644042969
+        },
+        "week3Prediction": {
+            "Predicted Price": 73.3200912475586,
+            "Price Growth": -4.939910888671875
+        },
+        "week4Prediction": {
+            "Predicted Price": 72.41043090820312,
+            "Price Growth": -5.849571228027344
+        }
+    },
+    "QCOM": {
+        "week1Prediction": {
+            "Predicted Price": 165.12294006347656,
+            "Price Growth": -5.79705810546875
+        },
+        "week2Prediction": {
+            "Predicted Price": 164.58787536621094,
+            "Price Growth": -6.332122802734375
+        },
+        "week3Prediction": {
+            "Predicted Price": 163.97320556640625,
+            "Price Growth": -6.9467926025390625
+        },
+        "week4Prediction": {
+            "Predicted Price": 162.46304321289062,
+            "Price Growth": -8.456954956054688
+        }
+    },
+    "PEP": {
+        "week1Prediction": {
+            "Predicted Price": 168.52122497558594,
+            "Price Growth": -6.5387725830078125
+        },
+        "week2Prediction": {
+            "Predicted Price": 169.0457763671875,
+            "Price Growth": -6.01422119140625
+        },
+        "week3Prediction": {
+            "Predicted Price": 169.95440673828125,
+            "Price Growth": -5.1055908203125
+        },
+        "week4Prediction": {
+            "Predicted Price": 168.49285888671875,
+            "Price Growth": -6.567138671875
+        }
+    },
+    "TMUS": {
+        "week1Prediction": {
+            "Predicted Price": 197.7486114501953,
+            "Price Growth": -25.461395263671875
+        },
+        "week2Prediction": {
+            "Predicted Price": 199.34390258789062,
+            "Price Growth": -23.866104125976562
+        },
+        "week3Prediction": {
+            "Predicted Price": 199.260498046875,
+            "Price Growth": -23.949508666992188
+        },
+        "week4Prediction": {
+            "Predicted Price": 196.59060668945312,
+            "Price Growth": -26.619400024414062
+        }
+    },
+    "LIN": {
+        "week1Prediction": {
+            "Predicted Price": 453.57391357421875,
+            "Price Growth": -32.8760986328125
+        },
+        "week2Prediction": {
+            "Predicted Price": 450.5832824707031,
+            "Price Growth": -35.866729736328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 449.20477294921875,
+            "Price Growth": -37.2452392578125
+        },
+        "week4Prediction": {
+            "Predicted Price": 443.73907470703125,
+            "Price Growth": -42.7109375
+        }
+    },
+    "AMGN": {
+        "week1Prediction": {
+            "Predicted Price": 293.1658020019531,
+            "Price Growth": -28.49420166015625
+        },
+        "week2Prediction": {
+            "Predicted Price": 291.017822265625,
+            "Price Growth": -30.642181396484375
+        },
+        "week3Prediction": {
+            "Predicted Price": 287.5935363769531,
+            "Price Growth": -34.06646728515625
+        },
+        "week4Prediction": {
+            "Predicted Price": 280.0885925292969,
+            "Price Growth": -41.5714111328125
+        }
+    },
+    "ISRG": {
+        "week1Prediction": {
+            "Predicted Price": 493.7985534667969,
+            "Price Growth": -27.351470947265625
+        },
+        "week2Prediction": {
+            "Predicted Price": 501.1652526855469,
+            "Price Growth": -19.984771728515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 509.197021484375,
+            "Price Growth": -11.9530029296875
+        },
+        "week4Prediction": {
+            "Predicted Price": 517.7808837890625,
+            "Price Growth": -3.369140625
+        }
+    },
+    "MU": {
+        "week1Prediction": {
+            "Predicted Price": 105.1217269897461,
+            "Price Growth": -6.0282745361328125
+        },
+        "week2Prediction": {
+            "Predicted Price": 104.86375427246094,
+            "Price Growth": -6.286247253417969
+        },
+        "week3Prediction": {
+            "Predicted Price": 106.60496520996094,
+            "Price Growth": -4.545036315917969
+        },
+        "week4Prediction": {
+            "Predicted Price": 106.44452667236328,
+            "Price Growth": -4.705474853515625
+        }
+    },
+    "CMCSA": {
+        "week1Prediction": {
+            "Predicted Price": 41.83229064941406,
+            "Price Growth": -0.09770965576171875
+        },
+        "week2Prediction": {
+            "Predicted Price": 41.8256721496582,
+            "Price Growth": -0.10432815551757812
+        },
+        "week3Prediction": {
+            "Predicted Price": 41.994544982910156,
+            "Price Growth": 0.064544677734375
+        },
+        "week4Prediction": {
+            "Predicted Price": 42.18442916870117,
+            "Price Growth": 0.2544288635253906
+        }
+    },
+    "LRCX": {
+        "week1Prediction": {
+            "Predicted Price": 80.25614166259766,
+            "Price Growth": 7.416145324707031
+        },
+        "week2Prediction": {
+            "Predicted Price": 78.87423706054688,
+            "Price Growth": 6.03424072265625
+        },
+        "week3Prediction": {
+            "Predicted Price": 77.74694061279297,
+            "Price Growth": 4.906944274902344
+        },
+        "week4Prediction": {
+            "Predicted Price": 75.89441680908203,
+            "Price Growth": 3.0544204711914062
+        }
+    },
+    "HON": {
+        "week1Prediction": {
+            "Predicted Price": 206.60581970214844,
+            "Price Growth": -15.4141845703125
+        },
+        "week2Prediction": {
+            "Predicted Price": 208.17349243164062,
+            "Price Growth": -13.846511840820312
+        },
+        "week3Prediction": {
+            "Predicted Price": 210.59371948242188,
+            "Price Growth": -11.426284790039062
+        },
+        "week4Prediction": {
+            "Predicted Price": 208.95956420898438,
+            "Price Growth": -13.060440063476562
+        }
+    },
+    "INTU": {
+        "week1Prediction": {
+            "Predicted Price": 621.6635131835938,
+            "Price Growth": 8.37353515625
+        },
+        "week2Prediction": {
+            "Predicted Price": 620.5093994140625,
+            "Price Growth": 7.21942138671875
+        },
+        "week3Prediction": {
+            "Predicted Price": 623.7652587890625,
+            "Price Growth": 10.47528076171875
+        },
+        "week4Prediction": {
+            "Predicted Price": 625.3908081054688,
+            "Price Growth": 12.100830078125
+        }
+    },
+    "TXN": {
+        "week1Prediction": {
+            "Predicted Price": 201.3507080078125,
+            "Price Growth": 2.880706787109375
+        },
+        "week2Prediction": {
+            "Predicted Price": 198.75929260253906,
+            "Price Growth": 0.2892913818359375
+        },
+        "week3Prediction": {
+            "Predicted Price": 198.0414581298828,
+            "Price Growth": -0.4285430908203125
+        },
+        "week4Prediction": {
+            "Predicted Price": 195.93899536132812,
+            "Price Growth": -2.531005859375
+        }
+    },
+    "CSCO": {
+        "week1Prediction": {
+            "Predicted Price": 52.770992279052734,
+            "Price Growth": -3.9890060424804688
+        },
+        "week2Prediction": {
+            "Predicted Price": 53.21670913696289,
+            "Price Growth": -3.5432891845703125
+        },
+        "week3Prediction": {
+            "Predicted Price": 53.693756103515625,
+            "Price Growth": -3.066242218017578
+        },
+        "week4Prediction": {
+            "Predicted Price": 53.54179000854492,
+            "Price Growth": -3.2182083129882812
+        }
+    },
+    "VRTX": {
+        "week1Prediction": {
+            "Predicted Price": 453.7523193359375,
+            "Price Growth": -29.2476806640625
+        },
+        "week2Prediction": {
+            "Predicted Price": 455.4001159667969,
+            "Price Growth": -27.599884033203125
+        },
+        "week3Prediction": {
+            "Predicted Price": 458.7681579589844,
+            "Price Growth": -24.231842041015625
+        },
+        "week4Prediction": {
+            "Predicted Price": 453.3191223144531,
+            "Price Growth": -29.680877685546875
+        }
+    },
+    "INTC": {
+        "week1Prediction": {
+            "Predicted Price": 30.88406753540039,
+            "Price Growth": 8.114067077636719
+        },
+        "week2Prediction": {
+            "Predicted Price": 31.220903396606445,
+            "Price Growth": 8.450902938842773
+        },
+        "week3Prediction": {
+            "Predicted Price": 32.444400787353516,
+            "Price Growth": 9.674400329589844
+        },
+        "week4Prediction": {
+            "Predicted Price": 34.00487518310547,
+            "Price Growth": 11.234874725341797
+        }
+    },
+    "ADI": {
+        "week1Prediction": {
+            "Predicted Price": 220.22225952148438,
+            "Price Growth": -8.107742309570312
+        },
+        "week2Prediction": {
+            "Predicted Price": 218.60650634765625,
+            "Price Growth": -9.723495483398438
+        },
+        "week3Prediction": {
+            "Predicted Price": 217.1423797607422,
+            "Price Growth": -11.1876220703125
+        },
+        "week4Prediction": {
+            "Predicted Price": 213.0503387451172,
+            "Price Growth": -15.2796630859375
+        }
+    },
+    "MRNA": {
+        "week1Prediction": {
+            "Predicted Price": 72.86398315429688,
+            "Price Growth": 18.76398468017578
+        },
+        "week2Prediction": {
+            "Predicted Price": 71.70712280273438,
+            "Price Growth": 17.60712432861328
+        },
+        "week3Prediction": {
+            "Predicted Price": 73.24819946289062,
+            "Price Growth": 19.14820098876953
+        },
+        "week4Prediction": {
+            "Predicted Price": 76.5083236694336,
+            "Price Growth": 22.4083251953125
+        }
+    },
+    "BKNG": {
+        "week1Prediction": {
+            "Predicted Price": 3677.86279296875,
+            "Price Growth": -672.95703125
+        },
+        "week2Prediction": {
+            "Predicted Price": 3646.3525390625,
+            "Price Growth": -704.46728515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 3589.552978515625,
+            "Price Growth": -761.266845703125
+        },
+        "week4Prediction": {
+            "Predicted Price": 3462.658203125,
+            "Price Growth": -888.16162109375
+        }
+    },
+    "MDLZ": {
+        "week1Prediction": {
+            "Predicted Price": 69.04818725585938,
+            "Price Growth": -2.5318145751953125
+        },
+        "week2Prediction": {
+            "Predicted Price": 68.03414154052734,
+            "Price Growth": -3.5458602905273438
+        },
+        "week3Prediction": {
+            "Predicted Price": 67.5078125,
+            "Price Growth": -4.0721893310546875
+        },
+        "week4Prediction": {
+            "Predicted Price": 66.9722900390625,
+            "Price Growth": -4.6077117919921875
+        }
+    },
+    "FISV": {
+        "week1Prediction": {
+            "Predicted Price": 170.89723205566406,
+            "Price Growth": -26.39276123046875
+        },
+        "week2Prediction": {
+            "Predicted Price": 172.75657653808594,
+            "Price Growth": -24.533416748046875
+        },
+        "week3Prediction": {
+            "Predicted Price": 171.6332244873047,
+            "Price Growth": -25.656768798828125
+        },
+        "week4Prediction": {
+            "Predicted Price": 167.8821258544922,
+            "Price Growth": -29.407867431640625
+        }
+    },
+    "ADSK": {
+        "week1Prediction": {
+            "Predicted Price": 271.5753479003906,
+            "Price Growth": -21.414642333984375
+        },
+        "week2Prediction": {
+            "Predicted Price": 274.1826171875,
+            "Price Growth": -18.807373046875
+        },
+        "week3Prediction": {
+            "Predicted Price": 276.5882263183594,
+            "Price Growth": -16.401763916015625
+        },
+        "week4Prediction": {
+            "Predicted Price": 275.1002197265625,
+            "Price Growth": -17.8897705078125
+        }
+    },
+    "GILD": {
+        "week1Prediction": {
+            "Predicted Price": 84.29196166992188,
+            "Price Growth": -2.42803955078125
+        },
+        "week2Prediction": {
+            "Predicted Price": 84.93612670898438,
+            "Price Growth": -1.78387451171875
+        },
+        "week3Prediction": {
+            "Predicted Price": 85.1732177734375,
+            "Price Growth": -1.546783447265625
+        },
+        "week4Prediction": {
+            "Predicted Price": 85.24654388427734,
+            "Price Growth": -1.4734573364257812
+        }
+    },
+    "REGN": {
+        "week1Prediction": {
+            "Predicted Price": 948.6676635742188,
+            "Price Growth": -42.0123291015625
+        },
+        "week2Prediction": {
+            "Predicted Price": 932.4057006835938,
+            "Price Growth": -58.2742919921875
+        },
+        "week3Prediction": {
+            "Predicted Price": 918.3327026367188,
+            "Price Growth": -72.3472900390625
+        },
+        "week4Prediction": {
+            "Predicted Price": 896.5099487304688,
+            "Price Growth": -94.1700439453125
+        }
+    },
+    "PYPL": {
+        "week1Prediction": {
+            "Predicted Price": 85.64778137207031,
+            "Price Growth": 4.7077789306640625
+        },
+        "week2Prediction": {
+            "Predicted Price": 86.81051635742188,
+            "Price Growth": 5.870513916015625
+        },
+        "week3Prediction": {
+            "Predicted Price": 88.12366485595703,
+            "Price Growth": 7.183662414550781
+        },
+        "week4Prediction": {
+            "Predicted Price": 89.66470336914062,
+            "Price Growth": 8.724700927734375
+        }
+    },
+    "AMAT": {
+        "week1Prediction": {
+            "Predicted Price": 210.61007690429688,
+            "Price Growth": 24.250076293945312
+        },
+        "week2Prediction": {
+            "Predicted Price": 208.94956970214844,
+            "Price Growth": 22.589569091796875
+        },
+        "week3Prediction": {
+            "Predicted Price": 209.5520782470703,
+            "Price Growth": 23.19207763671875
+        },
+        "week4Prediction": {
+            "Predicted Price": 209.90174865722656,
+            "Price Growth": 23.541748046875
+        }
+    },
+    "ABNB": {
+        "week1Prediction": {
+            "Predicted Price": 133.37013244628906,
+            "Price Growth": -3.079864501953125
+        },
+        "week2Prediction": {
+            "Predicted Price": 134.99008178710938,
+            "Price Growth": -1.4599151611328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 136.40281677246094,
+            "Price Growth": -0.04718017578125
+        },
+        "week4Prediction": {
+            "Predicted Price": 136.6638641357422,
+            "Price Growth": 0.2138671875
+        }
+    },
+    "SBUX": {
+        "week1Prediction": {
+            "Predicted Price": 95.88304138183594,
+            "Price Growth": -0.9569549560546875
+        },
+        "week2Prediction": {
+            "Predicted Price": 95.51331329345703,
+            "Price Growth": -1.3266830444335938
+        },
+        "week3Prediction": {
+            "Predicted Price": 95.3079833984375,
+            "Price Growth": -1.532012939453125
+        },
+        "week4Prediction": {
+            "Predicted Price": 95.36521911621094,
+            "Price Growth": -1.4747772216796875
+        }
+    },
+    "PDD": {
+        "week1Prediction": {
+            "Predicted Price": 138.676513671875,
+            "Price Growth": 14.056510925292969
+        },
+        "week2Prediction": {
+            "Predicted Price": 139.8163604736328,
+            "Price Growth": 15.196357727050781
+        },
+        "week3Prediction": {
+            "Predicted Price": 133.4140167236328,
+            "Price Growth": 8.794013977050781
+        },
+        "week4Prediction": {
+            "Predicted Price": 129.8903045654297,
+            "Price Growth": 5.270301818847656
+        }
+    },
+    "ROST": {
+        "week1Prediction": {
+            "Predicted Price": 141.29071044921875,
+            "Price Growth": -8.609283447265625
+        },
+        "week2Prediction": {
+            "Predicted Price": 139.1826171875,
+            "Price Growth": -10.717376708984375
+        },
+        "week3Prediction": {
+            "Predicted Price": 138.33737182617188,
+            "Price Growth": -11.5626220703125
+        },
+        "week4Prediction": {
+            "Predicted Price": 137.6011505126953,
+            "Price Growth": -12.298843383789062
+        }
+    },
+    "CSX": {
+        "week1Prediction": {
+            "Predicted Price": 33.61928176879883,
+            "Price Growth": -0.5007171630859375
+        },
+        "week2Prediction": {
+            "Predicted Price": 33.527217864990234,
+            "Price Growth": -0.5927810668945312
+        },
+        "week3Prediction": {
+            "Predicted Price": 33.35896682739258,
+            "Price Growth": -0.7610321044921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 32.9427375793457,
+            "Price Growth": -1.1772613525390625
+        }
+    },
+    "PANW": {
+        "week1Prediction": {
+            "Predicted Price": 370.4814758300781,
+            "Price Growth": -4.3485107421875
+        },
+        "week2Prediction": {
+            "Predicted Price": 382.6858215332031,
+            "Price Growth": 7.8558349609375
+        },
+        "week3Prediction": {
+            "Predicted Price": 395.43878173828125,
+            "Price Growth": 20.608795166015625
+        },
+        "week4Prediction": {
+            "Predicted Price": 398.68646240234375,
+            "Price Growth": 23.856475830078125
+        }
+    },
+    "KLAC": {
+        "week1Prediction": {
+            "Predicted Price": 775.1319580078125,
+            "Price Growth": 96.6119384765625
+        },
+        "week2Prediction": {
+            "Predicted Price": 767.0341186523438,
+            "Price Growth": 88.51409912109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 754.7764282226562,
+            "Price Growth": 76.25640869140625
+        },
+        "week4Prediction": {
+            "Predicted Price": 734.417724609375,
+            "Price Growth": 55.897705078125
+        }
+    },
+    "WDAY": {
+        "week1Prediction": {
+            "Predicted Price": 237.443115234375,
+            "Price Growth": -7.0368804931640625
+        },
+        "week2Prediction": {
+            "Predicted Price": 236.58094787597656,
+            "Price Growth": -7.8990478515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 235.56813049316406,
+            "Price Growth": -8.911865234375
+        },
+        "week4Prediction": {
+            "Predicted Price": 234.47909545898438,
+            "Price Growth": -10.000900268554688
+        }
+    },
+    "SNPS": {
+        "week1Prediction": {
+            "Predicted Price": 496.8532409667969,
+            "Price Growth": -10.1767578125
+        },
+        "week2Prediction": {
+            "Predicted Price": 496.1103820800781,
+            "Price Growth": -10.91961669921875
+        },
+        "week3Prediction": {
+            "Predicted Price": 499.0260009765625,
+            "Price Growth": -8.003997802734375
+        },
+        "week4Prediction": {
+            "Predicted Price": 485.04595947265625,
+            "Price Growth": -21.984039306640625
+        }
+    },
+    "TEAM": {
+        "week1Prediction": {
+            "Predicted Price": 180.9431915283203,
+            "Price Growth": -10.756805419921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 187.65121459960938,
+            "Price Growth": -4.0487823486328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 192.4346160888672,
+            "Price Growth": 0.734619140625
+        },
+        "week4Prediction": {
+            "Predicted Price": 192.7850799560547,
+            "Price Growth": 1.0850830078125
+        }
+    },
+    "ILMN": {
+        "week1Prediction": {
+            "Predicted Price": 175.12596130371094,
+            "Price Growth": 29.055953979492188
+        },
+        "week2Prediction": {
+            "Predicted Price": 180.95518493652344,
+            "Price Growth": 34.88517761230469
+        },
+        "week3Prediction": {
+            "Predicted Price": 186.78701782226562,
+            "Price Growth": 40.717010498046875
+        },
+        "week4Prediction": {
+            "Predicted Price": 194.2915496826172,
+            "Price Growth": 48.22154235839844
+        }
+    },
+    "MRVL": {
+        "week1Prediction": {
+            "Predicted Price": 73.17388916015625,
+            "Price Growth": -6.676109313964844
+        },
+        "week2Prediction": {
+            "Predicted Price": 74.80089569091797,
+            "Price Growth": -5.049102783203125
+        },
+        "week3Prediction": {
+            "Predicted Price": 75.52977752685547,
+            "Price Growth": -4.320220947265625
+        },
+        "week4Prediction": {
+            "Predicted Price": 76.05986022949219,
+            "Price Growth": -3.7901382446289062
+        }
+    },
+    "JD": {
+        "week1Prediction": {
+            "Predicted Price": 46.8814811706543,
+            "Price Growth": 6.901481628417969
+        },
+        "week2Prediction": {
+            "Predicted Price": 48.08106231689453,
+            "Price Growth": 8.101062774658203
+        },
+        "week3Prediction": {
+            "Predicted Price": 47.56967544555664,
+            "Price Growth": 7.5896759033203125
+        },
+        "week4Prediction": {
+            "Predicted Price": 48.27245330810547,
+            "Price Growth": 8.29245376586914
+        }
+    },
+    "EXC": {
+        "week1Prediction": {
+            "Predicted Price": 39.747013092041016,
+            "Price Growth": -1.2029876708984375
+        },
+        "week2Prediction": {
+            "Predicted Price": 39.667625427246094,
+            "Price Growth": -1.2823753356933594
+        },
+        "week3Prediction": {
+            "Predicted Price": 39.593936920166016,
+            "Price Growth": -1.3560638427734375
+        },
+        "week4Prediction": {
+            "Predicted Price": 39.651336669921875,
+            "Price Growth": -1.2986640930175781
+        }
+    },
+    "NXPI": {
+        "week1Prediction": {
+            "Predicted Price": 232.0543975830078,
+            "Price Growth": -1.395599365234375
+        },
+        "week2Prediction": {
+            "Predicted Price": 228.43333435058594,
+            "Price Growth": -5.01666259765625
+        },
+        "week3Prediction": {
+            "Predicted Price": 227.7744903564453,
+            "Price Growth": -5.675506591796875
+        },
+        "week4Prediction": {
+            "Predicted Price": 225.00674438476562,
+            "Price Growth": -8.443252563476562
+        }
+    },
+    "BIDU": {
+        "week1Prediction": {
+            "Predicted Price": 114.51254272460938,
+            "Price Growth": 20.122543334960938
+        },
+        "week2Prediction": {
+            "Predicted Price": 114.65528869628906,
+            "Price Growth": 20.265289306640625
+        },
+        "week3Prediction": {
+            "Predicted Price": 114.06047058105469,
+            "Price Growth": 19.67047119140625
+        },
+        "week4Prediction": {
+            "Predicted Price": 116.1323471069336,
+            "Price Growth": 21.742347717285156
+        }
+    },
+    "IDXX": {
+        "week1Prediction": {
+            "Predicted Price": 480.5889587402344,
+            "Price Growth": 22.848968505859375
+        },
+        "week2Prediction": {
+            "Predicted Price": 467.4376525878906,
+            "Price Growth": 9.697662353515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 464.99322509765625,
+            "Price Growth": 7.25323486328125
+        },
+        "week4Prediction": {
+            "Predicted Price": 462.2594299316406,
+            "Price Growth": 4.519439697265625
+        }
+    },
+    "MNST": {
+        "week1Prediction": {
+            "Predicted Price": 50.32316589355469,
+            "Price Growth": -3.7268333435058594
+        },
+        "week2Prediction": {
+            "Predicted Price": 50.08961486816406,
+            "Price Growth": -3.9603843688964844
+        },
+        "week3Prediction": {
+            "Predicted Price": 50.18109130859375,
+            "Price Growth": -3.868907928466797
+        },
+        "week4Prediction": {
+            "Predicted Price": 50.02688217163086,
+            "Price Growth": -4.0231170654296875
+        }
+    },
+    "FTNT": {
+        "week1Prediction": {
+            "Predicted Price": 80.56609344482422,
+            "Price Growth": -0.50390625
+        },
+        "week2Prediction": {
+            "Predicted Price": 81.93228912353516,
+            "Price Growth": 0.8622894287109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 83.35551452636719,
+            "Price Growth": 2.2855148315429688
+        },
+        "week4Prediction": {
+            "Predicted Price": 82.95545196533203,
+            "Price Growth": 1.8854522705078125
+        }
+    },
+    "CHTR": {
+        "week1Prediction": {
+            "Predicted Price": 384.646728515625,
+            "Price Growth": 59.0367431640625
+        },
+        "week2Prediction": {
+            "Predicted Price": 389.02532958984375,
+            "Price Growth": 63.41534423828125
+        },
+        "week3Prediction": {
+            "Predicted Price": 397.83837890625,
+            "Price Growth": 72.2283935546875
+        },
+        "week4Prediction": {
+            "Predicted Price": 411.291748046875,
+            "Price Growth": 85.6817626953125
+        }
+    },
+    "FAST": {
+        "week1Prediction": {
+            "Predicted Price": 70.17218780517578,
+            "Price Growth": -7.727813720703125
+        },
+        "week2Prediction": {
+            "Predicted Price": 70.9908676147461,
+            "Price Growth": -6.9091339111328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 72.00597381591797,
+            "Price Growth": -5.8940277099609375
+        },
+        "week4Prediction": {
+            "Predicted Price": 70.46326446533203,
+            "Price Growth": -7.436737060546875
+        }
+    },
+    "DOCU": {
+        "week1Prediction": {
+            "Predicted Price": 70.60906219482422,
+            "Price Growth": -1.6909408569335938
+        },
+        "week2Prediction": {
+            "Predicted Price": 72.94161987304688,
+            "Price Growth": 0.6416168212890625
+        },
+        "week3Prediction": {
+            "Predicted Price": 75.20004272460938,
+            "Price Growth": 2.9000396728515625
+        },
+        "week4Prediction": {
+            "Predicted Price": 76.42748260498047,
+            "Price Growth": 4.127479553222656
+        }
+    },
+    "MCHP": {
+        "week1Prediction": {
+            "Predicted Price": 76.69623565673828,
+            "Price Growth": -0.6437606811523438
+        },
+        "week2Prediction": {
+            "Predicted Price": 75.6648941040039,
+            "Price Growth": -1.6751022338867188
+        },
+        "week3Prediction": {
+            "Predicted Price": 75.36509704589844,
+            "Price Growth": -1.9748992919921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 74.7658462524414,
+            "Price Growth": -2.5741500854492188
+        }
+    },
+    "ALGN": {
+        "week1Prediction": {
+            "Predicted Price": 248.09942626953125,
+            "Price Growth": 28.399429321289062
+        },
+        "week2Prediction": {
+            "Predicted Price": 241.4622039794922,
+            "Price Growth": 21.76220703125
+        },
+        "week3Prediction": {
+            "Predicted Price": 239.41847229003906,
+            "Price Growth": 19.718475341796875
+        },
+        "week4Prediction": {
+            "Predicted Price": 244.29339599609375,
+            "Price Growth": 24.593399047851562
+        }
+    },
+    "KDP": {
+        "week1Prediction": {
+            "Predicted Price": 36.629905700683594,
+            "Price Growth": -0.3100929260253906
+        },
+        "week2Prediction": {
+            "Predicted Price": 36.36045455932617,
+            "Price Growth": -0.5795440673828125
+        },
+        "week3Prediction": {
+            "Predicted Price": 36.4234619140625,
+            "Price Growth": -0.5165367126464844
+        },
+        "week4Prediction": {
+            "Predicted Price": 36.4755744934082,
+            "Price Growth": -0.46442413330078125
+        }
+    },
+    "AEP": {
+        "week1Prediction": {
+            "Predicted Price": 96.91429901123047,
+            "Price Growth": -3.7757034301757812
+        },
+        "week2Prediction": {
+            "Predicted Price": 96.1041030883789,
+            "Price Growth": -4.585899353027344
+        },
+        "week3Prediction": {
+            "Predicted Price": 95.39935302734375,
+            "Price Growth": -5.2906494140625
+        },
+        "week4Prediction": {
+            "Predicted Price": 94.9449234008789,
+            "Price Growth": -5.745079040527344
+        }
+    },
+    "CPRT": {
+        "week1Prediction": {
+            "Predicted Price": 50.68956756591797,
+            "Price Growth": -3.1904335021972656
+        },
+        "week2Prediction": {
+            "Predicted Price": 51.0699348449707,
+            "Price Growth": -2.8100662231445312
+        },
+        "week3Prediction": {
+            "Predicted Price": 50.93074035644531,
+            "Price Growth": -2.949260711669922
+        },
+        "week4Prediction": {
+            "Predicted Price": 49.46053695678711,
+            "Price Growth": -4.419464111328125
+        }
+    },
+    "PCAR": {
+        "week1Prediction": {
+            "Predicted Price": 85.79936981201172,
+            "Price Growth": -24.290626525878906
+        },
+        "week2Prediction": {
+            "Predicted Price": 86.272705078125,
+            "Price Growth": -23.817291259765625
+        },
+        "week3Prediction": {
+            "Predicted Price": 84.89956665039062,
+            "Price Growth": -25.1904296875
+        },
+        "week4Prediction": {
+            "Predicted Price": 81.6314697265625,
+            "Price Growth": -28.458526611328125
+        }
+    },
+    "TTWO": {
+        "week1Prediction": {
+            "Predicted Price": 152.5548858642578,
+            "Price Growth": -2.715118408203125
+        },
+        "week2Prediction": {
+            "Predicted Price": 152.78749084472656,
+            "Price Growth": -2.482513427734375
+        },
+        "week3Prediction": {
+            "Predicted Price": 153.4317169189453,
+            "Price Growth": -1.838287353515625
+        },
+        "week4Prediction": {
+            "Predicted Price": 152.8675537109375,
+            "Price Growth": -2.4024505615234375
+        }
+    },
+    "CTAS": {
+        "week1Prediction": {
+            "Predicted Price": 182.3161163330078,
+            "Price Growth": -31.703887939453125
+        },
+        "week2Prediction": {
+            "Predicted Price": 182.16343688964844,
+            "Price Growth": -31.8565673828125
+        },
+        "week3Prediction": {
+            "Predicted Price": 179.7421112060547,
+            "Price Growth": -34.27789306640625
+        },
+        "week4Prediction": {
+            "Predicted Price": 174.38217163085938,
+            "Price Growth": -39.63783264160156
+        }
+    },
+    "SWKS": {
+        "week1Prediction": {
+            "Predicted Price": 102.58314514160156,
+            "Price Growth": 3.97314453125
+        },
+        "week2Prediction": {
+            "Predicted Price": 102.68220520019531,
+            "Price Growth": 4.07220458984375
+        },
+        "week3Prediction": {
+            "Predicted Price": 103.82460021972656,
+            "Price Growth": 5.214599609375
+        },
+        "week4Prediction": {
+            "Predicted Price": 105.29546356201172,
+            "Price Growth": 6.685462951660156
+        }
+    },
+    "ODFL": {
+        "week1Prediction": {
+            "Predicted Price": 196.5360565185547,
+            "Price Growth": -3.003936767578125
+        },
+        "week2Prediction": {
+            "Predicted Price": 196.7799072265625,
+            "Price Growth": -2.7600860595703125
+        },
+        "week3Prediction": {
+            "Predicted Price": 199.2141571044922,
+            "Price Growth": -0.325836181640625
+        },
+        "week4Prediction": {
+            "Predicted Price": 198.5429229736328,
+            "Price Growth": -0.9970703125
+        }
+    },
+    "LULU": {
+        "week1Prediction": {
+            "Predicted Price": 288.90106201171875,
+            "Price Growth": -2.72894287109375
+        },
+        "week2Prediction": {
+            "Predicted Price": 290.2178955078125,
+            "Price Growth": -1.412109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 295.0359802246094,
+            "Price Growth": 3.405975341796875
+        },
+        "week4Prediction": {
+            "Predicted Price": 298.6693115234375,
+            "Price Growth": 7.039306640625
+        }
+    },
+    "BKR": {
+        "week1Prediction": {
+            "Predicted Price": 35.875118255615234,
+            "Price Growth": -0.5248832702636719
+        },
+        "week2Prediction": {
+            "Predicted Price": 36.05867385864258,
+            "Price Growth": -0.3413276672363281
+        },
+        "week3Prediction": {
+            "Predicted Price": 35.4827766418457,
+            "Price Growth": -0.9172248840332031
+        },
+        "week4Prediction": {
+            "Predicted Price": 34.83553695678711,
+            "Price Growth": -1.5644645690917969
+        }
+    },
+    "MTCH": {
+        "week1Prediction": {
+            "Predicted Price": 49.299949645996094,
+            "Price Growth": 10.869949340820312
+        },
+        "week2Prediction": {
+            "Predicted Price": 50.20738983154297,
+            "Price Growth": 11.777389526367188
+        },
+        "week3Prediction": {
+            "Predicted Price": 52.08314514160156,
+            "Price Growth": 13.653144836425781
+        },
+        "week4Prediction": {
+            "Predicted Price": 54.87907028198242,
+            "Price Growth": 16.44906997680664
+        }
+    },
+    "CDNS": {
+        "week1Prediction": {
+            "Predicted Price": 269.5288391113281,
+            "Price Growth": 11.00885009765625
+        },
+        "week2Prediction": {
+            "Predicted Price": 267.9530944824219,
+            "Price Growth": 9.43310546875
+        },
+        "week3Prediction": {
+            "Predicted Price": 267.99688720703125,
+            "Price Growth": 9.476898193359375
+        },
+        "week4Prediction": {
+            "Predicted Price": 262.3266296386719,
+            "Price Growth": 3.806640625
+        }
+    },
+    "BIIB": {
+        "week1Prediction": {
+            "Predicted Price": 204.27210998535156,
+            "Price Growth": 14.112106323242188
+        },
+        "week2Prediction": {
+            "Predicted Price": 203.98130798339844,
+            "Price Growth": 13.821304321289062
+        },
+        "week3Prediction": {
+            "Predicted Price": 207.2837677001953,
+            "Price Growth": 17.123764038085938
+        },
+        "week4Prediction": {
+            "Predicted Price": 211.1107940673828,
+            "Price Growth": 20.950790405273438
+        }
+    },
+    "MAR": {
+        "week1Prediction": {
+            "Predicted Price": 240.71026611328125,
+            "Price Growth": -24.889739990234375
+        },
+        "week2Prediction": {
+            "Predicted Price": 241.22286987304688,
+            "Price Growth": -24.37713623046875
+        },
+        "week3Prediction": {
+            "Predicted Price": 239.7242889404297,
+            "Price Growth": -25.875717163085938
+        },
+        "week4Prediction": {
+            "Predicted Price": 234.10568237304688,
+            "Price Growth": -31.49432373046875
+        }
+    },
+    "MELI": {
+        "week1Prediction": {
+            "Predicted Price": 2023.220458984375,
+            "Price Growth": -56.569580078125
+        },
+        "week2Prediction": {
+            "Predicted Price": 2015.988525390625,
+            "Price Growth": -63.801513671875
+        },
+        "week3Prediction": {
+            "Predicted Price": 2047.8134765625,
+            "Price Growth": -31.9765625
+        },
+        "week4Prediction": {
+            "Predicted Price": 2027.3040771484375,
+            "Price Growth": -52.4859619140625
+        }
+    },
+    "ZM": {
+        "week1Prediction": {
+            "Predicted Price": 85.72451782226562,
+            "Price Growth": 15.204521179199219
+        },
+        "week2Prediction": {
+            "Predicted Price": 87.25321197509766,
+            "Price Growth": 16.73321533203125
+        },
+        "week3Prediction": {
+            "Predicted Price": 90.57408142089844,
+            "Price Growth": 20.05408477783203
+        },
+        "week4Prediction": {
+            "Predicted Price": 94.83177185058594,
+            "Price Growth": 24.31177520751953
+        }
+    },
+    "ZS": {
+        "week1Prediction": {
+            "Predicted Price": 179.0054931640625,
+            "Price Growth": -11.004501342773438
+        },
+        "week2Prediction": {
+            "Predicted Price": 183.93690490722656,
+            "Price Growth": -6.073089599609375
+        },
+        "week3Prediction": {
+            "Predicted Price": 188.3788604736328,
+            "Price Growth": -1.631134033203125
+        },
+        "week4Prediction": {
+            "Predicted Price": 183.74685668945312,
+            "Price Growth": -6.2631378173828125
+        }
+    },
+    "VRSN": {
+        "week1Prediction": {
+            "Predicted Price": 193.29383850097656,
+            "Price Growth": 5.5738372802734375
+        },
+        "week2Prediction": {
+            "Predicted Price": 193.08740234375,
+            "Price Growth": 5.367401123046875
+        },
+        "week3Prediction": {
+            "Predicted Price": 194.13385009765625,
+            "Price Growth": 6.413848876953125
+        },
+        "week4Prediction": {
+            "Predicted Price": 195.2457275390625,
+            "Price Growth": 7.525726318359375
+        }
+    },
+    "CTSH": {
+        "week1Prediction": {
+            "Predicted Price": 75.89285278320312,
+            "Price Growth": -2.107147216796875
+        },
+        "week2Prediction": {
+            "Predicted Price": 75.83883666992188,
+            "Price Growth": -2.161163330078125
+        },
+        "week3Prediction": {
+            "Predicted Price": 75.61864471435547,
+            "Price Growth": -2.3813552856445312
+        },
+        "week4Prediction": {
+            "Predicted Price": 75.67544555664062,
+            "Price Growth": -2.324554443359375
+        }
+    },
+    "RIVN": {
+        "week1Prediction": {
+            "Predicted Price": 13.569043159484863,
+            "Price Growth": 3.529043197631836
+        },
+        "week2Prediction": {
+            "Predicted Price": 13.500597953796387,
+            "Price Growth": 3.4605979919433594
+        },
+        "week3Prediction": {
+            "Predicted Price": 13.904844284057617,
+            "Price Growth": 3.86484432220459
+        },
+        "week4Prediction": {
+            "Predicted Price": 14.494745254516602,
+            "Price Growth": 4.454745292663574
+        }
+    },
+    "CTLT": {
+        "week1Prediction": {
+            "Predicted Price": 67.48414611816406,
+            "Price Growth": 7.194145202636719
+        },
+        "week2Prediction": {
+            "Predicted Price": 68.15145874023438,
+            "Price Growth": 7.861457824707031
+        },
+        "week3Prediction": {
+            "Predicted Price": 69.3624496459961,
+            "Price Growth": 9.07244873046875
+        },
+        "week4Prediction": {
+            "Predicted Price": 71.24124145507812,
+            "Price Growth": 10.951240539550781
+        }
+    },
+    "ANSS": {
+        "week1Prediction": {
+            "Predicted Price": 321.65850830078125,
+            "Price Growth": -5.741485595703125
+        },
+        "week2Prediction": {
+            "Predicted Price": 321.3744812011719,
+            "Price Growth": -6.0255126953125
+        },
+        "week3Prediction": {
+            "Predicted Price": 323.9538879394531,
+            "Price Growth": -3.44610595703125
+        },
+        "week4Prediction": {
+            "Predicted Price": 321.8327331542969,
+            "Price Growth": -5.5672607421875
+        }
+    },
+    "CEG": {
+        "week1Prediction": {
+            "Predicted Price": 218.6634979248047,
+            "Price Growth": -51.49650573730469
+        },
+        "week2Prediction": {
+            "Predicted Price": 218.42535400390625,
+            "Price Growth": -51.734649658203125
+        },
+        "week3Prediction": {
+            "Predicted Price": 210.6066131591797,
+            "Price Growth": -59.55339050292969
+        },
+        "week4Prediction": {
+            "Predicted Price": 202.9715118408203,
+            "Price Growth": -67.18849182128906
+        }
+    },
+    "EPAM": {
+        "week1Prediction": {
+            "Predicted Price": 222.58950805664062,
+            "Price Growth": 21.009506225585938
+        },
+        "week2Prediction": {
+            "Predicted Price": 224.4406280517578,
+            "Price Growth": 22.860626220703125
+        },
+        "week3Prediction": {
+            "Predicted Price": 228.60906982421875,
+            "Price Growth": 27.029067993164062
+        },
+        "week4Prediction": {
+            "Predicted Price": 235.87391662597656,
+            "Price Growth": 34.293914794921875
+        }
+    },
+    "OKTA": {
+        "week1Prediction": {
+            "Predicted Price": 91.4596176147461,
+            "Price Growth": 16.639617919921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 93.1148681640625,
+            "Price Growth": 18.29486846923828
+        },
+        "week3Prediction": {
+            "Predicted Price": 96.7061538696289,
+            "Price Growth": 21.886154174804688
+        },
+        "week4Prediction": {
+            "Predicted Price": 100.3460693359375,
+            "Price Growth": 25.52606964111328
+        }
+    },
+    "ENPH": {
+        "week1Prediction": {
+            "Predicted Price": 109.78250122070312,
+            "Price Growth": 18.142501831054688
+        },
+        "week2Prediction": {
+            "Predicted Price": 105.4811019897461,
+            "Price Growth": 13.841102600097656
+        },
+        "week3Prediction": {
+            "Predicted Price": 104.39250946044922,
+            "Price Growth": 12.752510070800781
+        },
+        "week4Prediction": {
+            "Predicted Price": 105.29235076904297,
+            "Price Growth": 13.652351379394531
+        }
+    },
+    "TSCO": {
+        "week1Prediction": {
+            "Predicted Price": 296.7724914550781,
+            "Price Growth": -0.847503662109375
+        },
+        "week2Prediction": {
+            "Predicted Price": 301.5037841796875,
+            "Price Growth": 3.8837890625
+        },
+        "week3Prediction": {
+            "Predicted Price": 303.3021545410156,
+            "Price Growth": 5.682159423828125
+        },
+        "week4Prediction": {
+            "Predicted Price": 302.0721130371094,
+            "Price Growth": 4.452117919921875
+        }
+    },
+    "EXPD": {
+        "week1Prediction": {
+            "Predicted Price": 122.3660888671875,
+            "Price Growth": 1.8660888671875
+        },
+        "week2Prediction": {
+            "Predicted Price": 119.82574462890625,
+            "Price Growth": -0.67425537109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 120.10116577148438,
+            "Price Growth": -0.398834228515625
+        },
+        "week4Prediction": {
+            "Predicted Price": 119.26435852050781,
+            "Price Growth": -1.2356414794921875
+        }
+    },
+    "TTD": {
+        "week1Prediction": {
+            "Predicted Price": 108.46576690673828,
+            "Price Growth": -10.294235229492188
+        },
+        "week2Prediction": {
+            "Predicted Price": 110.12858581542969,
+            "Price Growth": -8.631416320800781
+        },
+        "week3Prediction": {
+            "Predicted Price": 110.16653442382812,
+            "Price Growth": -8.593467712402344
+        },
+        "week4Prediction": {
+            "Predicted Price": 107.89675903320312,
+            "Price Growth": -10.863243103027344
+        }
+    },
+    "DDOG": {
+        "week1Prediction": {
+            "Predicted Price": 120.04426574707031,
+            "Price Growth": -8.075729370117188
+        },
+        "week2Prediction": {
+            "Predicted Price": 123.83589935302734,
+            "Price Growth": -4.284095764160156
+        },
+        "week3Prediction": {
+            "Predicted Price": 124.57891082763672,
+            "Price Growth": -3.5410842895507812
+        },
+        "week4Prediction": {
+            "Predicted Price": 122.49742889404297,
+            "Price Growth": -5.622566223144531
+        }
+    },
+    "WDC": {
+        "week1Prediction": {
+            "Predicted Price": 64.929443359375,
+            "Price Growth": -2.100555419921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 63.68978500366211,
+            "Price Growth": -3.3402137756347656
+        },
+        "week3Prediction": {
+            "Predicted Price": 63.230712890625,
+            "Price Growth": -3.799285888671875
+        },
+        "week4Prediction": {
+            "Predicted Price": 63.04024887084961,
+            "Price Growth": -3.9897499084472656
+        }
+    },
+    "FANG": {
+        "week1Prediction": {
+            "Predicted Price": 192.7233123779297,
+            "Price Growth": 8.733306884765625
+        },
+        "week2Prediction": {
+            "Predicted Price": 201.60694885253906,
+            "Price Growth": 17.616943359375
+        },
+        "week3Prediction": {
+            "Predicted Price": 201.1439971923828,
+            "Price Growth": 17.15399169921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 201.54727172851562,
+            "Price Growth": 17.557266235351562
+        }
+    },
+    "KHC": {
+        "week1Prediction": {
+            "Predicted Price": 35.344329833984375,
+            "Price Growth": -0.655670166015625
+        },
+        "week2Prediction": {
+            "Predicted Price": 35.345855712890625,
+            "Price Growth": -0.654144287109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 35.593994140625,
+            "Price Growth": -0.406005859375
+        },
+        "week4Prediction": {
+            "Predicted Price": 35.681968688964844,
+            "Price Growth": -0.31803131103515625
+        }
+    },
+    "DXCM": {
+        "week1Prediction": {
+            "Predicted Price": 75.11599731445312,
+            "Price Growth": 2.7360000610351562
+        },
+        "week2Prediction": {
+            "Predicted Price": 76.33049774169922,
+            "Price Growth": 3.95050048828125
+        },
+        "week3Prediction": {
+            "Predicted Price": 77.88903045654297,
+            "Price Growth": 5.509033203125
+        },
+        "week4Prediction": {
+            "Predicted Price": 79.69605255126953,
+            "Price Growth": 7.3160552978515625
+        }
+    },
+    "ON": {
+        "week1Prediction": {
+            "Predicted Price": 73.5308837890625,
+            "Price Growth": 5.040885925292969
+        },
+        "week2Prediction": {
+            "Predicted Price": 72.15694427490234,
+            "Price Growth": 3.6669464111328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 72.0677719116211,
+            "Price Growth": 3.5777740478515625
+        },
+        "week4Prediction": {
+            "Predicted Price": 72.66422271728516,
+            "Price Growth": 4.174224853515625
+        }
+    },
+    "VRSK": {
+        "week1Prediction": {
+            "Predicted Price": 246.04000854492188,
+            "Price Growth": -21.579986572265625
+        },
+        "week2Prediction": {
+            "Predicted Price": 244.98568725585938,
+            "Price Growth": -22.634307861328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 241.94984436035156,
+            "Price Growth": -25.670150756835938
+        },
+        "week4Prediction": {
+            "Predicted Price": 236.43394470214844,
+            "Price Growth": -31.186050415039062
+        }
+    },
+    "MPWR": {
+        "week1Prediction": {
+            "Predicted Price": 894.8486938476562,
+            "Price Growth": -21.4412841796875
+        },
+        "week2Prediction": {
+            "Predicted Price": 893.5206909179688,
+            "Price Growth": -22.769287109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 884.7011108398438,
+            "Price Growth": -31.5888671875
+        },
+        "week4Prediction": {
+            "Predicted Price": 870.4629516601562,
+            "Price Growth": -45.8270263671875
+        }
+    },
+    "AXON": {
+        "week1Prediction": {
+            "Predicted Price": 389.7913513183594,
+            "Price Growth": -48.258636474609375
+        },
+        "week2Prediction": {
+            "Predicted Price": 396.6007385253906,
+            "Price Growth": -41.449249267578125
+        },
+        "week3Prediction": {
+            "Predicted Price": 394.5214538574219,
+            "Price Growth": -43.528533935546875
+        },
+        "week4Prediction": {
+            "Predicted Price": 385.9495544433594,
+            "Price Growth": -52.100433349609375
+        }
+    },
+    "NTES": {
+        "week1Prediction": {
+            "Predicted Price": 92.84990692138672,
+            "Price Growth": 10.429908752441406
+        },
+        "week2Prediction": {
+            "Predicted Price": 91.89539337158203,
+            "Price Growth": 9.475395202636719
+        },
+        "week3Prediction": {
+            "Predicted Price": 88.12435150146484,
+            "Price Growth": 5.704353332519531
+        },
+        "week4Prediction": {
+            "Predicted Price": 88.41936492919922,
+            "Price Growth": 5.999366760253906
+        }
+    },
+    "EXPE": {
+        "week1Prediction": {
+            "Predicted Price": 147.0178985595703,
+            "Price Growth": -12.59210205078125
+        },
+        "week2Prediction": {
+            "Predicted Price": 148.06707763671875,
+            "Price Growth": -11.542922973632812
+        },
+        "week3Prediction": {
+            "Predicted Price": 148.2086181640625,
+            "Price Growth": -11.401382446289062
+        },
+        "week4Prediction": {
+            "Predicted Price": 148.0527801513672,
+            "Price Growth": -11.557220458984375
+        }
+    },
+    "CZR": {
+        "week1Prediction": {
+            "Predicted Price": 46.960994720458984,
+            "Price Growth": 1.7809944152832031
+        },
+        "week2Prediction": {
+            "Predicted Price": 48.03303527832031,
+            "Price Growth": 2.8530349731445312
+        },
+        "week3Prediction": {
+            "Predicted Price": 48.588348388671875,
+            "Price Growth": 3.4083480834960938
+        },
+        "week4Prediction": {
+            "Predicted Price": 49.4296989440918,
+            "Price Growth": 4.249698638916016
+        }
+    },
+    "PAYC": {
+        "week1Prediction": {
+            "Predicted Price": 221.12173461914062,
+            "Price Growth": 55.23173522949219
+        },
+        "week2Prediction": {
+            "Predicted Price": 224.21070861816406,
+            "Price Growth": 58.320709228515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 231.07769775390625,
+            "Price Growth": 65.18769836425781
+        },
+        "week4Prediction": {
+            "Predicted Price": 243.48941040039062,
+            "Price Growth": 77.59941101074219
+        }
+    },
+    "DD": {
+        "week1Prediction": {
+            "Predicted Price": 84.29070281982422,
+            "Price Growth": -0.7992935180664062
+        },
+        "week2Prediction": {
+            "Predicted Price": 83.02352905273438,
+            "Price Growth": -2.06646728515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 82.03216552734375,
+            "Price Growth": -3.057830810546875
+        },
+        "week4Prediction": {
+            "Predicted Price": 81.01712036132812,
+            "Price Growth": -4.0728759765625
+        }
+    },
+    "MCO": {
+        "week1Prediction": {
+            "Predicted Price": 457.6121826171875,
+            "Price Growth": -30.847808837890625
+        },
+        "week2Prediction": {
+            "Predicted Price": 456.62799072265625,
+            "Price Growth": -31.832000732421875
+        },
+        "week3Prediction": {
+            "Predicted Price": 458.7580871582031,
+            "Price Growth": -29.701904296875
+        },
+        "week4Prediction": {
+            "Predicted Price": 454.3865051269531,
+            "Price Growth": -34.073486328125
+        }
+    },
+    "EA": {
+        "week1Prediction": {
+            "Predicted Price": 140.07876586914062,
+            "Price Growth": -4.271240234375
+        },
+        "week2Prediction": {
+            "Predicted Price": 139.49066162109375,
+            "Price Growth": -4.859344482421875
+        },
+        "week3Prediction": {
+            "Predicted Price": 139.15040588378906,
+            "Price Growth": -5.1996002197265625
+        },
+        "week4Prediction": {
+            "Predicted Price": 138.3706817626953,
+            "Price Growth": -5.9793243408203125
+        }
+    },
+    "AFL": {
+        "week1Prediction": {
+            "Predicted Price": 101.81688690185547,
+            "Price Growth": -12.683113098144531
+        },
+        "week2Prediction": {
+            "Predicted Price": 101.94124603271484,
+            "Price Growth": -12.558753967285156
+        },
+        "week3Prediction": {
+            "Predicted Price": 99.87821197509766,
+            "Price Growth": -14.621788024902344
+        },
+        "week4Prediction": {
+            "Predicted Price": 97.32460021972656,
+            "Price Growth": -17.175399780273438
+        }
+    },
+    "ETSY": {
+        "week1Prediction": {
+            "Predicted Price": 62.63203430175781,
+            "Price Growth": 11.072032928466797
+        },
+        "week2Prediction": {
+            "Predicted Price": 61.927085876464844,
+            "Price Growth": 10.367084503173828
+        },
+        "week3Prediction": {
+            "Predicted Price": 63.242271423339844,
+            "Price Growth": 11.682270050048828
+        },
+        "week4Prediction": {
+            "Predicted Price": 66.36145782470703,
+            "Price Growth": 14.801456451416016
+        }
+    },
+    "EBAY": {
+        "week1Prediction": {
+            "Predicted Price": 64.37353515625,
+            "Price Growth": -0.5764617919921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 64.81889343261719,
+            "Price Growth": -0.131103515625
+        },
+        "week3Prediction": {
+            "Predicted Price": 64.34174346923828,
+            "Price Growth": -0.6082534790039062
+        },
+        "week4Prediction": {
+            "Predicted Price": 63.72124099731445,
+            "Price Growth": -1.2287559509277344
+        }
+    },
+    "POOL": {
+        "week1Prediction": {
+            "Predicted Price": 364.7690734863281,
+            "Price Growth": -5.64093017578125
+        },
+        "week2Prediction": {
+            "Predicted Price": 362.6342468261719,
+            "Price Growth": -7.7757568359375
+        },
+        "week3Prediction": {
+            "Predicted Price": 363.2148742675781,
+            "Price Growth": -7.19512939453125
+        },
+        "week4Prediction": {
+            "Predicted Price": 363.0436706542969,
+            "Price Growth": -7.3663330078125
+        }
+    },
+    "TDY": {
+        "week1Prediction": {
+            "Predicted Price": 430.8201904296875,
+            "Price Growth": -19.23980712890625
+        },
+        "week2Prediction": {
+            "Predicted Price": 432.69085693359375,
+            "Price Growth": -17.369140625
+        },
+        "week3Prediction": {
+            "Predicted Price": 432.1484375,
+            "Price Growth": -17.91156005859375
+        },
+        "week4Prediction": {
+            "Predicted Price": 426.7315368652344,
+            "Price Growth": -23.328460693359375
+        }
+    },
+    "PTC": {
+        "week1Prediction": {
+            "Predicted Price": 174.59280395507812,
+            "Price Growth": -9.80718994140625
+        },
+        "week2Prediction": {
+            "Predicted Price": 173.7608642578125,
+            "Price Growth": -10.639129638671875
+        },
+        "week3Prediction": {
+            "Predicted Price": 173.14089965820312,
+            "Price Growth": -11.25909423828125
+        },
+        "week4Prediction": {
+            "Predicted Price": 171.2840118408203,
+            "Price Growth": -13.115982055664062
+        }
+    },
+    "CRWD": {
+        "week1Prediction": {
+            "Predicted Price": 294.61456298828125,
+            "Price Growth": -15.535430908203125
+        },
+        "week2Prediction": {
+            "Predicted Price": 301.1598815917969,
+            "Price Growth": -8.9901123046875
+        },
+        "week3Prediction": {
+            "Predicted Price": 305.1913757324219,
+            "Price Growth": -4.9586181640625
+        },
+        "week4Prediction": {
+            "Predicted Price": 298.9155578613281,
+            "Price Growth": -11.23443603515625
+        }
+    },
+    "ULTA": {
+        "week1Prediction": {
+            "Predicted Price": 380.5451354980469,
+            "Price Growth": 11.6251220703125
+        },
+        "week2Prediction": {
+            "Predicted Price": 370.66033935546875,
+            "Price Growth": 1.740325927734375
+        },
+        "week3Prediction": {
+            "Predicted Price": 367.67926025390625,
+            "Price Growth": -1.240753173828125
+        },
+        "week4Prediction": {
+            "Predicted Price": 368.0868225097656,
+            "Price Growth": -0.83319091796875
+        }
+    },
+    "DOCS": {
+        "week1Prediction": {
+            "Predicted Price": 41.414573669433594,
+            "Price Growth": -2.0854263305664062
+        },
+        "week2Prediction": {
+            "Predicted Price": 41.38894271850586,
+            "Price Growth": -2.1110572814941406
+        },
+        "week3Prediction": {
+            "Predicted Price": 40.89851760864258,
+            "Price Growth": -2.601482391357422
+        },
+        "week4Prediction": {
+            "Predicted Price": 40.382530212402344,
+            "Price Growth": -3.1174697875976562
+        }
+    },
+    "MGM": {
+        "week1Prediction": {
+            "Predicted Price": 39.091339111328125,
+            "Price Growth": -2.0986595153808594
+        },
+        "week2Prediction": {
+            "Predicted Price": 39.23561477661133,
+            "Price Growth": -1.9543838500976562
+        },
+        "week3Prediction": {
+            "Predicted Price": 39.004615783691406,
+            "Price Growth": -2.185382843017578
+        },
+        "week4Prediction": {
+            "Predicted Price": 38.940643310546875,
+            "Price Growth": -2.2493553161621094
+        }
+    },
+    "HSIC": {
+        "week1Prediction": {
+            "Predicted Price": 71.5221939086914,
+            "Price Growth": -0.8678054809570312
+        },
+        "week2Prediction": {
+            "Predicted Price": 71.0367202758789,
+            "Price Growth": -1.3532791137695312
+        },
+        "week3Prediction": {
+            "Predicted Price": 71.26939392089844,
+            "Price Growth": -1.12060546875
+        },
+        "week4Prediction": {
+            "Predicted Price": 71.50674438476562,
+            "Price Growth": -0.8832550048828125
+        }
+    },
+    "SIRI": {
+        "week1Prediction": {
+            "Predicted Price": 40.93101119995117,
+            "Price Growth": 13.32101058959961
+        },
+        "week2Prediction": {
+            "Predicted Price": 41.95812225341797,
+            "Price Growth": 14.348121643066406
+        },
+        "week3Prediction": {
+            "Predicted Price": 44.191349029541016,
+            "Price Growth": 16.581348419189453
+        },
+        "week4Prediction": {
+            "Predicted Price": 46.975067138671875,
+            "Price Growth": 19.365066528320312
+        }
+    },
+    "UAL": {
+        "week1Prediction": {
+            "Predicted Price": 57.24797821044922,
+            "Price Growth": -16.902023315429688
+        },
+        "week2Prediction": {
+            "Predicted Price": 58.96372604370117,
+            "Price Growth": -15.186275482177734
+        },
+        "week3Prediction": {
+            "Predicted Price": 59.88758850097656,
+            "Price Growth": -14.262413024902344
+        },
+        "week4Prediction": {
+            "Predicted Price": 59.5960807800293,
+            "Price Growth": -14.55392074584961
+        }
+    },
+    "MRO": {
+        "week1Prediction": {
+            "Predicted Price": 28.6192684173584,
+            "Price Growth": 1.8992691040039062
+        },
+        "week2Prediction": {
+            "Predicted Price": 29.307802200317383,
+            "Price Growth": 2.5878028869628906
+        },
+        "week3Prediction": {
+            "Predicted Price": 28.966413497924805,
+            "Price Growth": 2.2464141845703125
+        },
+        "week4Prediction": {
+            "Predicted Price": 29.183917999267578,
+            "Price Growth": 2.463918685913086
+        }
+    },
+    "TRIP": {
+        "week1Prediction": {
+            "Predicted Price": 17.64069366455078,
+            "Price Growth": 2.1306934356689453
+        },
+        "week2Prediction": {
+            "Predicted Price": 17.91014289855957,
+            "Price Growth": 2.4001426696777344
+        },
+        "week3Prediction": {
+            "Predicted Price": 18.40272331237793,
+            "Price Growth": 2.8927230834960938
+        },
+        "week4Prediction": {
+            "Predicted Price": 19.148193359375,
+            "Price Growth": 3.638193130493164
+        }
+    },
+    "TT": {
+        "week1Prediction": {
+            "Predicted Price": 372.23333740234375,
+            "Price Growth": -30.306671142578125
+        },
+        "week2Prediction": {
+            "Predicted Price": 374.48443603515625,
+            "Price Growth": -28.055572509765625
+        },
+        "week3Prediction": {
+            "Predicted Price": 374.3302307128906,
+            "Price Growth": -28.20977783203125
+        },
+        "week4Prediction": {
+            "Predicted Price": 368.70489501953125,
+            "Price Growth": -33.835113525390625
+        }
+    },
+    "TAP": {
+        "week1Prediction": {
+            "Predicted Price": 54.40005111694336,
+            "Price Growth": -1.5999488830566406
+        },
+        "week2Prediction": {
+            "Predicted Price": 53.887123107910156,
+            "Price Growth": -2.1128768920898438
+        },
+        "week3Prediction": {
+            "Predicted Price": 53.44148635864258,
+            "Price Growth": -2.558513641357422
+        },
+        "week4Prediction": {
+            "Predicted Price": 53.32073211669922,
+            "Price Growth": -2.6792678833007812
+        }
+    },
+    "GNTX": {
+        "week1Prediction": {
+            "Predicted Price": 29.77615737915039,
+            "Price Growth": -0.1438426971435547
+        },
+        "week2Prediction": {
+            "Predicted Price": 29.3905086517334,
+            "Price Growth": -0.5294914245605469
+        },
+        "week3Prediction": {
+            "Predicted Price": 29.56143569946289,
+            "Price Growth": -0.3585643768310547
+        },
+        "week4Prediction": {
+            "Predicted Price": 29.642263412475586,
+            "Price Growth": -0.2777366638183594
+        }
+    },
+    "LCID": {
+        "week1Prediction": {
+            "Predicted Price": 8.237675666809082,
+            "Price Growth": 5.607675552368164
+        },
+        "week2Prediction": {
+            "Predicted Price": 8.506370544433594,
+            "Price Growth": 5.876370429992676
+        },
+        "week3Prediction": {
+            "Predicted Price": 9.198898315429688,
+            "Price Growth": 6.5688982009887695
+        },
+        "week4Prediction": {
+            "Predicted Price": 10.235942840576172,
+            "Price Growth": 7.605942726135254
+        }
+    },
+    "TROW": {
+        "week1Prediction": {
+            "Predicted Price": 113.06626892089844,
+            "Price Growth": -2.5637283325195312
+        },
+        "week2Prediction": {
+            "Predicted Price": 113.79171752929688,
+            "Price Growth": -1.8382797241210938
+        },
+        "week3Prediction": {
+            "Predicted Price": 115.1318588256836,
+            "Price Growth": -0.498138427734375
+        },
+        "week4Prediction": {
+            "Predicted Price": 116.67060089111328,
+            "Price Growth": 1.0406036376953125
+        }
+    },
+    "BBY": {
+        "week1Prediction": {
+            "Predicted Price": 99.01911163330078,
+            "Price Growth": 2.8791122436523438
+        },
+        "week2Prediction": {
+            "Predicted Price": 97.7306900024414,
+            "Price Growth": 1.5906906127929688
+        },
+        "week3Prediction": {
+            "Predicted Price": 97.15316009521484,
+            "Price Growth": 1.0131607055664062
+        },
+        "week4Prediction": {
+            "Predicted Price": 97.19772338867188,
+            "Price Growth": 1.0577239990234375
+        }
+    },
+    "SNOW": {
+        "week1Prediction": {
+            "Predicted Price": 139.2143096923828,
+            "Price Growth": 19.67430877685547
+        },
+        "week2Prediction": {
+            "Predicted Price": 142.1182861328125,
+            "Price Growth": 22.578285217285156
+        },
+        "week3Prediction": {
+            "Predicted Price": 146.6770782470703,
+            "Price Growth": 27.13707733154297
+        },
+        "week4Prediction": {
+            "Predicted Price": 150.440185546875,
+            "Price Growth": 30.900184631347656
+        }
+    },
+    "IRBT": {
+        "week1Prediction": {
+            "Predicted Price": 24.022193908691406,
+            "Price Growth": 16.07219409942627
+        },
+        "week2Prediction": {
+            "Predicted Price": 24.942005157470703,
+            "Price Growth": 16.992005348205566
+        },
+        "week3Prediction": {
+            "Predicted Price": 26.916683197021484,
+            "Price Growth": 18.966683387756348
+        },
+        "week4Prediction": {
+            "Predicted Price": 30.06365966796875,
+            "Price Growth": 22.113659858703613
+        }
+    },
+    "PTON": {
+        "week1Prediction": {
+            "Predicted Price": 9.597338676452637,
+            "Price Growth": 3.757338523864746
+        },
+        "week2Prediction": {
+            "Predicted Price": 10.13178539276123,
+            "Price Growth": 4.29178524017334
+        },
+        "week3Prediction": {
+            "Predicted Price": 11.127817153930664,
+            "Price Growth": 5.287817001342773
+        },
+        "week4Prediction": {
+            "Predicted Price": 12.492486953735352,
+            "Price Growth": 6.652486801147461
+        }
+    },
+    "RBLX": {
+        "week1Prediction": {
+            "Predicted Price": 43.181358337402344,
+            "Price Growth": 3.2513580322265625
+        },
+        "week2Prediction": {
+            "Predicted Price": 42.40885543823242,
+            "Price Growth": 2.4788551330566406
+        },
+        "week3Prediction": {
+            "Predicted Price": 42.36865997314453,
+            "Price Growth": 2.43865966796875
+        },
+        "week4Prediction": {
+            "Predicted Price": 42.52394104003906,
+            "Price Growth": 2.5939407348632812
+        }
+    },
+    "SE": {
+        "week1Prediction": {
+            "Predicted Price": 96.72383117675781,
+            "Price Growth": -2.1761703491210938
+        },
+        "week2Prediction": {
+            "Predicted Price": 97.85322570800781,
+            "Price Growth": -1.0467758178710938
+        },
+        "week3Prediction": {
+            "Predicted Price": 98.52677154541016,
+            "Price Growth": -0.37322998046875
+        },
+        "week4Prediction": {
+            "Predicted Price": 98.10126495361328,
+            "Price Growth": -0.798736572265625
+        }
+    },
+    "XEL": {
+        "week1Prediction": {
+            "Predicted Price": 65.00096130371094,
+            "Price Growth": 0.9309616088867188
+        },
+        "week2Prediction": {
+            "Predicted Price": 64.8677978515625,
+            "Price Growth": 0.7977981567382812
+        },
+        "week3Prediction": {
+            "Predicted Price": 65.01138305664062,
+            "Price Growth": 0.9413833618164062
+        },
+        "week4Prediction": {
+            "Predicted Price": 65.58268737792969,
+            "Price Growth": 1.5126876831054688
+        }
+    },
+    "TRMB": {
+        "week1Prediction": {
+            "Predicted Price": 61.76405715942383,
+            "Price Growth": -0.00594329833984375
+        },
+        "week2Prediction": {
+            "Predicted Price": 61.92361068725586,
+            "Price Growth": 0.1536102294921875
+        },
+        "week3Prediction": {
+            "Predicted Price": 61.88804244995117,
+            "Price Growth": 0.1180419921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 61.50686264038086,
+            "Price Growth": -0.2631378173828125
+        }
+    },
+    "TGT": {
+        "week1Prediction": {
+            "Predicted Price": 156.0037078857422,
+            "Price Growth": -0.8362884521484375
+        },
+        "week2Prediction": {
+            "Predicted Price": 156.35472106933594,
+            "Price Growth": -0.4852752685546875
+        },
+        "week3Prediction": {
+            "Predicted Price": 157.63851928710938,
+            "Price Growth": 0.79852294921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 157.06504821777344,
+            "Price Growth": 0.2250518798828125
+        }
+    },
+    "ALNY": {
+        "week1Prediction": {
+            "Predicted Price": 259.4576416015625,
+            "Price Growth": -36.47235107421875
+        },
+        "week2Prediction": {
+            "Predicted Price": 259.9324035644531,
+            "Price Growth": -35.997589111328125
+        },
+        "week3Prediction": {
+            "Predicted Price": 261.04962158203125,
+            "Price Growth": -34.88037109375
+        },
+        "week4Prediction": {
+            "Predicted Price": 255.349609375,
+            "Price Growth": -40.58038330078125
+        }
+    },
+    "WYNN": {
+        "week1Prediction": {
+            "Predicted Price": 97.89260864257812,
+            "Price Growth": -1.547393798828125
+        },
+        "week2Prediction": {
+            "Predicted Price": 98.94049072265625,
+            "Price Growth": -0.49951171875
+        },
+        "week3Prediction": {
+            "Predicted Price": 97.0815658569336,
+            "Price Growth": -2.3584365844726562
+        },
+        "week4Prediction": {
+            "Predicted Price": 95.00241088867188,
+            "Price Growth": -4.437591552734375
+        }
+    },
+    "ELF": {
+        "week1Prediction": {
+            "Predicted Price": 114.27364349365234,
+            "Price Growth": 6.073646545410156
+        },
+        "week2Prediction": {
+            "Predicted Price": 113.4316635131836,
+            "Price Growth": 5.231666564941406
+        },
+        "week3Prediction": {
+            "Predicted Price": 115.1435775756836,
+            "Price Growth": 6.943580627441406
+        },
+        "week4Prediction": {
+            "Predicted Price": 116.12899017333984,
+            "Price Growth": 7.928993225097656
+        }
+    },
+    "FSLR": {
+        "week1Prediction": {
+            "Predicted Price": 250.5850830078125,
+            "Price Growth": 50.03507995605469
+        },
+        "week2Prediction": {
+            "Predicted Price": 237.32424926757812,
+            "Price Growth": 36.77424621582031
+        },
+        "week3Prediction": {
+            "Predicted Price": 235.43478393554688,
+            "Price Growth": 34.88478088378906
+        },
+        "week4Prediction": {
+            "Predicted Price": 244.535400390625,
+            "Price Growth": 43.98539733886719
+        }
+    },
+    "BGFV": {
+        "week1Prediction": {
+            "Predicted Price": 3.6153321266174316,
+            "Price Growth": 1.4553320407867432
+        },
+        "week2Prediction": {
+            "Predicted Price": 3.7461276054382324,
+            "Price Growth": 1.586127519607544
+        },
+        "week3Prediction": {
+            "Predicted Price": 4.040136337280273,
+            "Price Growth": 1.880136251449585
+        },
+        "week4Prediction": {
+            "Predicted Price": 4.472525596618652,
+            "Price Growth": 2.312525510787964
+        }
+    },
+    "PLUG": {
+        "week1Prediction": {
+            "Predicted Price": 5.342889785766602,
+            "Price Growth": 3.1028897762298584
+        },
+        "week2Prediction": {
+            "Predicted Price": 5.5916900634765625,
+            "Price Growth": 3.3516900539398193
+        },
+        "week3Prediction": {
+            "Predicted Price": 6.150769233703613,
+            "Price Growth": 3.91076922416687
+        },
+        "week4Prediction": {
+            "Predicted Price": 6.989274978637695,
+            "Price Growth": 4.749274969100952
+        }
+    },
+    "APPS": {
+        "week1Prediction": {
+            "Predicted Price": 6.803438186645508,
+            "Price Growth": 3.493438243865967
+        },
+        "week2Prediction": {
+            "Predicted Price": 7.131373882293701,
+            "Price Growth": 3.82137393951416
+        },
+        "week3Prediction": {
+            "Predicted Price": 7.876898288726807,
+            "Price Growth": 4.566898345947266
+        },
+        "week4Prediction": {
+            "Predicted Price": 8.732776641845703,
+            "Price Growth": 5.422776699066162
+        }
+    },
+    "CAR": {
+        "week1Prediction": {
+            "Predicted Price": 85.98828887939453,
+            "Price Growth": 4.938285827636719
+        },
+        "week2Prediction": {
+            "Predicted Price": 84.94092559814453,
+            "Price Growth": 3.8909225463867188
+        },
+        "week3Prediction": {
+            "Predicted Price": 83.50633239746094,
+            "Price Growth": 2.456329345703125
+        },
+        "week4Prediction": {
+            "Predicted Price": 83.82735443115234,
+            "Price Growth": 2.7773513793945312
+        }
+    },
+    "UPST": {
+        "week1Prediction": {
+            "Predicted Price": 50.708106994628906,
+            "Price Growth": -2.421894073486328
+        },
+        "week2Prediction": {
+            "Predicted Price": 53.063045501708984,
+            "Price Growth": -0.06695556640625
+        },
+        "week3Prediction": {
+            "Predicted Price": 56.011993408203125,
+            "Price Growth": 2.8819923400878906
+        },
+        "week4Prediction": {
+            "Predicted Price": 57.902915954589844,
+            "Price Growth": 4.772914886474609
+        }
+    },
+    "CROX": {
+        "week1Prediction": {
+            "Predicted Price": 140.801513671875,
+            "Price Growth": 1.401519775390625
+        },
+        "week2Prediction": {
+            "Predicted Price": 139.26171875,
+            "Price Growth": -0.138275146484375
+        },
+        "week3Prediction": {
+            "Predicted Price": 138.44142150878906,
+            "Price Growth": -0.9585723876953125
+        },
+        "week4Prediction": {
+            "Predicted Price": 138.36769104003906,
+            "Price Growth": -1.0323028564453125
+        }
+    },
+    "TWLO": {
+        "week1Prediction": {
+            "Predicted Price": 79.46092987060547,
+            "Price Growth": 8.610931396484375
+        },
+        "week2Prediction": {
+            "Predicted Price": 81.72398376464844,
+            "Price Growth": 10.873985290527344
+        },
+        "week3Prediction": {
+            "Predicted Price": 84.26329040527344,
+            "Price Growth": 13.413291931152344
+        },
+        "week4Prediction": {
+            "Predicted Price": 87.03340911865234,
+            "Price Growth": 16.18341064453125
+        }
+    },
+    "U": {
+        "week1Prediction": {
+            "Predicted Price": 28.832534790039062,
+            "Price Growth": 6.7225341796875
+        },
+        "week2Prediction": {
+            "Predicted Price": 29.206239700317383,
+            "Price Growth": 7.09623908996582
+        },
+        "week3Prediction": {
+            "Predicted Price": 30.369293212890625,
+            "Price Growth": 8.259292602539062
+        },
+        "week4Prediction": {
+            "Predicted Price": 32.21350860595703,
+            "Price Growth": 10.103507995605469
+        }
+    },
+    "APP": {
+        "week1Prediction": {
+            "Predicted Price": 151.0246124267578,
+            "Price Growth": 5.8046112060546875
+        },
+        "week2Prediction": {
+            "Predicted Price": 159.93226623535156,
+            "Price Growth": 14.712265014648438
+        },
+        "week3Prediction": {
+            "Predicted Price": 165.54116821289062,
+            "Price Growth": 20.3211669921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 170.07952880859375,
+            "Price Growth": 24.859527587890625
+        }
+    },
+    "VRNS": {
+        "week1Prediction": {
+            "Predicted Price": 55.88529586791992,
+            "Price Growth": -3.5447044372558594
+        },
+        "week2Prediction": {
+            "Predicted Price": 56.47712707519531,
+            "Price Growth": -2.9528732299804688
+        },
+        "week3Prediction": {
+            "Predicted Price": 56.87411880493164,
+            "Price Growth": -2.5558815002441406
+        },
+        "week4Prediction": {
+            "Predicted Price": 56.04617691040039,
+            "Price Growth": -3.3838233947753906
+        }
+    },
+    "LEVI": {
+        "week1Prediction": {
+            "Predicted Price": 19.867055892944336,
+            "Price Growth": 1.2070560455322266
+        },
+        "week2Prediction": {
+            "Predicted Price": 19.112173080444336,
+            "Price Growth": 0.45217323303222656
+        },
+        "week3Prediction": {
+            "Predicted Price": 18.917146682739258,
+            "Price Growth": 0.25714683532714844
+        },
+        "week4Prediction": {
+            "Predicted Price": 18.921695709228516,
+            "Price Growth": 0.26169586181640625
+        }
+    },
+    "NTRA": {
+        "week1Prediction": {
+            "Predicted Price": 126.20925903320312,
+            "Price Growth": 3.8092575073242188
+        },
+        "week2Prediction": {
+            "Predicted Price": 126.60311126708984,
+            "Price Growth": 4.2031097412109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 125.10729217529297,
+            "Price Growth": 2.7072906494140625
+        },
+        "week4Prediction": {
+            "Predicted Price": 123.23468780517578,
+            "Price Growth": 0.834686279296875
+        }
+    },
+    "TDOC": {
+        "week1Prediction": {
+            "Predicted Price": 21.57602310180664,
+            "Price Growth": 11.73602294921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 22.8082275390625,
+            "Price Growth": 12.96822738647461
+        },
+        "week3Prediction": {
+            "Predicted Price": 24.969554901123047,
+            "Price Growth": 15.129554748535156
+        },
+        "week4Prediction": {
+            "Predicted Price": 28.243553161621094,
+            "Price Growth": 18.403553009033203
+        }
+    },
+    "PEN": {
+        "week1Prediction": {
+            "Predicted Price": 198.90773010253906,
+            "Price Growth": -9.742263793945312
+        },
+        "week2Prediction": {
+            "Predicted Price": 201.9412078857422,
+            "Price Growth": -6.7087860107421875
+        },
+        "week3Prediction": {
+            "Predicted Price": 204.19126892089844,
+            "Price Growth": -4.4587249755859375
+        },
+        "week4Prediction": {
+            "Predicted Price": 204.1226043701172,
+            "Price Growth": -4.5273895263671875
+        }
+    },
+    "DOCN": {
+        "week1Prediction": {
+            "Predicted Price": 42.244266510009766,
+            "Price Growth": -1.0757331848144531
+        },
+        "week2Prediction": {
+            "Predicted Price": 42.84507369995117,
+            "Price Growth": -0.4749259948730469
+        },
+        "week3Prediction": {
+            "Predicted Price": 42.86307907104492,
+            "Price Growth": -0.4569206237792969
+        },
+        "week4Prediction": {
+            "Predicted Price": 42.5180549621582,
+            "Price Growth": -0.8019447326660156
+        }
+    },
+    "VERV": {
+        "week1Prediction": {
+            "Predicted Price": 10.016552925109863,
+            "Price Growth": 4.366552829742432
+        },
+        "week2Prediction": {
+            "Predicted Price": 10.398676872253418,
+            "Price Growth": 4.748676776885986
+        },
+        "week3Prediction": {
+            "Predicted Price": 11.13905143737793,
+            "Price Growth": 5.489051342010498
+        },
+        "week4Prediction": {
+            "Predicted Price": 12.340814590454102,
+            "Price Growth": 6.69081449508667
+        }
+    },
+    "DNA": {
+        "week1Prediction": {
+            "Predicted Price": 22.33153533935547,
+            "Price Growth": 13.45153522491455
+        },
+        "week2Prediction": {
+            "Predicted Price": 23.293912887573242,
+            "Price Growth": 14.413912773132324
+        },
+        "week3Prediction": {
+            "Predicted Price": 25.267683029174805,
+            "Price Growth": 16.387682914733887
+        },
+        "week4Prediction": {
+            "Predicted Price": 28.674470901489258,
+            "Price Growth": 19.79447078704834
+        }
+    },
+    "APPN": {
+        "week1Prediction": {
+            "Predicted Price": 41.23520278930664,
+            "Price Growth": 9.765203475952148
+        },
+        "week2Prediction": {
+            "Predicted Price": 41.30819320678711,
+            "Price Growth": 9.838193893432617
+        },
+        "week3Prediction": {
+            "Predicted Price": 42.361324310302734,
+            "Price Growth": 10.891324996948242
+        },
+        "week4Prediction": {
+            "Predicted Price": 44.77094650268555,
+            "Price Growth": 13.300947189331055
+        }
+    },
+    "VRNT": {
+        "week1Prediction": {
+            "Predicted Price": 25.741640090942383,
+            "Price Growth": 2.8716392517089844
+        },
+        "week2Prediction": {
+            "Predicted Price": 25.302688598632812,
+            "Price Growth": 2.432687759399414
+        },
+        "week3Prediction": {
+            "Predicted Price": 25.494178771972656,
+            "Price Growth": 2.624177932739258
+        },
+        "week4Prediction": {
+            "Predicted Price": 25.954641342163086,
+            "Price Growth": 3.0846405029296875
+        }
+    },
+    "FIVN": {
+        "week1Prediction": {
+            "Predicted Price": 44.80379104614258,
+            "Price Growth": 14.223791122436523
+        },
+        "week2Prediction": {
+            "Predicted Price": 46.40465545654297,
+            "Price Growth": 15.824655532836914
+        },
+        "week3Prediction": {
+            "Predicted Price": 49.06624221801758,
+            "Price Growth": 18.486242294311523
+        },
+        "week4Prediction": {
+            "Predicted Price": 52.67605972290039,
+            "Price Growth": 22.096059799194336
+        }
+    },
+    "MDB": {
+        "week1Prediction": {
+            "Predicted Price": 273.2565612792969,
+            "Price Growth": -2.283447265625
+        },
+        "week2Prediction": {
+            "Predicted Price": 275.655517578125,
+            "Price Growth": 0.115509033203125
+        },
+        "week3Prediction": {
+            "Predicted Price": 279.57342529296875,
+            "Price Growth": 4.033416748046875
+        },
+        "week4Prediction": {
+            "Predicted Price": 274.3540344238281,
+            "Price Growth": -1.18597412109375
+        }
+    },
+    "ZBRA": {
+        "week1Prediction": {
+            "Predicted Price": 362.82513427734375,
+            "Price Growth": -12.6248779296875
+        },
+        "week2Prediction": {
+            "Predicted Price": 363.34063720703125,
+            "Price Growth": -12.109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 363.916259765625,
+            "Price Growth": -11.53375244140625
+        },
+        "week4Prediction": {
+            "Predicted Price": 360.6220703125,
+            "Price Growth": -14.82794189453125
+        }
+    },
+    "CHKP": {
+        "week1Prediction": {
+            "Predicted Price": 169.657470703125,
+            "Price Growth": -36.57252502441406
+        },
+        "week2Prediction": {
+            "Predicted Price": 169.72438049316406,
+            "Price Growth": -36.505615234375
+        },
+        "week3Prediction": {
+            "Predicted Price": 167.5695037841797,
+            "Price Growth": -38.660491943359375
+        },
+        "week4Prediction": {
+            "Predicted Price": 159.99798583984375,
+            "Price Growth": -46.23200988769531
+        }
+    },
+    "ZION": {
+        "week1Prediction": {
+            "Predicted Price": 48.154296875,
+            "Price Growth": -3.095703125
+        },
+        "week2Prediction": {
+            "Predicted Price": 49.137027740478516,
+            "Price Growth": -2.1129722595214844
+        },
+        "week3Prediction": {
+            "Predicted Price": 49.69055938720703,
+            "Price Growth": -1.5594406127929688
+        },
+        "week4Prediction": {
+            "Predicted Price": 49.51314926147461,
+            "Price Growth": -1.7368507385253906
+        }
+    },
+    "PI": {
+        "week1Prediction": {
+            "Predicted Price": 224.6083984375,
+            "Price Growth": 6.3083953857421875
+        },
+        "week2Prediction": {
+            "Predicted Price": 228.13003540039062,
+            "Price Growth": 9.830032348632812
+        },
+        "week3Prediction": {
+            "Predicted Price": 230.62197875976562,
+            "Price Growth": 12.321975708007812
+        },
+        "week4Prediction": {
+            "Predicted Price": 227.56692504882812,
+            "Price Growth": 9.266921997070312
+        }
+    },
+    "NICE": {
+        "week1Prediction": {
+            "Predicted Price": 181.06280517578125,
+            "Price Growth": 1.3527984619140625
+        },
+        "week2Prediction": {
+            "Predicted Price": 182.5367431640625,
+            "Price Growth": 2.8267364501953125
+        },
+        "week3Prediction": {
+            "Predicted Price": 184.9463348388672,
+            "Price Growth": 5.236328125
+        },
+        "week4Prediction": {
+            "Predicted Price": 188.218017578125,
+            "Price Growth": 8.508010864257812
+        }
+    },
+    "RNG": {
+        "week1Prediction": {
+            "Predicted Price": 52.7076301574707,
+            "Price Growth": 18.777629852294922
+        },
+        "week2Prediction": {
+            "Predicted Price": 54.6141242980957,
+            "Price Growth": 20.684123992919922
+        },
+        "week3Prediction": {
+            "Predicted Price": 58.46882629394531,
+            "Price Growth": 24.53882598876953
+        },
+        "week4Prediction": {
+            "Predicted Price": 63.66581726074219,
+            "Price Growth": 29.735816955566406
+        }
+    },
+    "WIX": {
+        "week1Prediction": {
+            "Predicted Price": 160.22763061523438,
+            "Price Growth": -13.162368774414062
+        },
+        "week2Prediction": {
+            "Predicted Price": 159.3170166015625,
+            "Price Growth": -14.072982788085938
+        },
+        "week3Prediction": {
+            "Predicted Price": 160.83253479003906,
+            "Price Growth": -12.557464599609375
+        },
+        "week4Prediction": {
+            "Predicted Price": 159.0108642578125,
+            "Price Growth": -14.379135131835938
+        }
+    },
+    "DBX": {
+        "week1Prediction": {
+            "Predicted Price": 25.10371971130371,
+            "Price Growth": -1.3662796020507812
+        },
+        "week2Prediction": {
+            "Predicted Price": 25.258819580078125,
+            "Price Growth": -1.2111797332763672
+        },
+        "week3Prediction": {
+            "Predicted Price": 25.352998733520508,
+            "Price Growth": -1.1170005798339844
+        },
+        "week4Prediction": {
+            "Predicted Price": 25.19437026977539,
+            "Price Growth": -1.2756290435791016
+        }
+    },
+    "MSTR": {
+        "week1Prediction": {
+            "Predicted Price": 194.3474578857422,
+            "Price Growth": -21.512542724609375
+        },
+        "week2Prediction": {
+            "Predicted Price": 202.4660186767578,
+            "Price Growth": -13.39398193359375
+        },
+        "week3Prediction": {
+            "Predicted Price": 211.8993377685547,
+            "Price Growth": -3.960662841796875
+        },
+        "week4Prediction": {
+            "Predicted Price": 209.93011474609375,
+            "Price Growth": -5.9298858642578125
+        }
+    },
+    "PD": {
+        "week1Prediction": {
+            "Predicted Price": 20.98357582092285,
+            "Price Growth": 1.9835758209228516
+        },
+        "week2Prediction": {
+            "Predicted Price": 21.197471618652344,
+            "Price Growth": 2.1974716186523438
+        },
+        "week3Prediction": {
+            "Predicted Price": 21.745094299316406,
+            "Price Growth": 2.7450942993164062
+        },
+        "week4Prediction": {
+            "Predicted Price": 22.45650863647461,
+            "Price Growth": 3.4565086364746094
+        }
+    },
+    "SPOT": {
+        "week1Prediction": {
+            "Predicted Price": 378.3497619628906,
+            "Price Growth": -0.530242919921875
+        },
+        "week2Prediction": {
+            "Predicted Price": 381.2562255859375,
+            "Price Growth": 2.376220703125
+        },
+        "week3Prediction": {
+            "Predicted Price": 384.2148742675781,
+            "Price Growth": 5.334869384765625
+        },
+        "week4Prediction": {
+            "Predicted Price": 387.2696838378906,
+            "Price Growth": 8.389678955078125
+        }
+    },
+    "BILL": {
+        "week1Prediction": {
+            "Predicted Price": 69.52011108398438,
+            "Price Growth": 11.750110626220703
+        },
+        "week2Prediction": {
+            "Predicted Price": 71.61399841308594,
+            "Price Growth": 13.843997955322266
+        },
+        "week3Prediction": {
+            "Predicted Price": 74.33012390136719,
+            "Price Growth": 16.560123443603516
+        },
+        "week4Prediction": {
+            "Predicted Price": 78.20978546142578,
+            "Price Growth": 20.43978500366211
+        }
+    },
+    "S": {
+        "week1Prediction": {
+            "Predicted Price": 23.65024757385254,
+            "Price Growth": -2.7097530364990234
+        },
+        "week2Prediction": {
+            "Predicted Price": 23.94371795654297,
+            "Price Growth": -2.4162826538085938
+        },
+        "week3Prediction": {
+            "Predicted Price": 24.145769119262695,
+            "Price Growth": -2.214231491088867
+        },
+        "week4Prediction": {
+            "Predicted Price": 23.724380493164062,
+            "Price Growth": -2.6356201171875
+        }
+    },
+    "OLO": {
+        "week1Prediction": {
+            "Predicted Price": 5.436537742614746,
+            "Price Growth": 0.3865375518798828
+        },
+        "week2Prediction": {
+            "Predicted Price": 5.478991985321045,
+            "Price Growth": 0.42899179458618164
+        },
+        "week3Prediction": {
+            "Predicted Price": 5.614614486694336,
+            "Price Growth": 0.5646142959594727
+        },
+        "week4Prediction": {
+            "Predicted Price": 5.803799152374268,
+            "Price Growth": 0.7537989616394043
+        }
+    },
+    "DT": {
+        "week1Prediction": {
+            "Predicted Price": 52.73028564453125,
+            "Price Growth": -2.1297149658203125
+        },
+        "week2Prediction": {
+            "Predicted Price": 53.11623764038086,
+            "Price Growth": -1.7437629699707031
+        },
+        "week3Prediction": {
+            "Predicted Price": 53.09779739379883,
+            "Price Growth": -1.7622032165527344
+        },
+        "week4Prediction": {
+            "Predicted Price": 52.460418701171875,
+            "Price Growth": -2.3995819091796875
+        }
+    },
+    "GOOS": {
+        "week1Prediction": {
+            "Predicted Price": 14.634084701538086,
+            "Price Growth": 3.394084930419922
+        },
+        "week2Prediction": {
+            "Predicted Price": 14.61234188079834,
+            "Price Growth": 3.372342109680176
+        },
+        "week3Prediction": {
+            "Predicted Price": 14.958003997802734,
+            "Price Growth": 3.7180042266845703
+        },
+        "week4Prediction": {
+            "Predicted Price": 15.56510066986084,
+            "Price Growth": 4.325100898742676
+        }
+    },
+    "XERS": {
+        "week1Prediction": {
+            "Predicted Price": 2.8740546703338623,
+            "Price Growth": -0.1859452724456787
+        },
+        "week2Prediction": {
+            "Predicted Price": 2.895808696746826,
+            "Price Growth": -0.16419124603271484
+        },
+        "week3Prediction": {
+            "Predicted Price": 2.8817176818847656,
+            "Price Growth": -0.1782822608947754
+        },
+        "week4Prediction": {
+            "Predicted Price": 2.8814749717712402,
+            "Price Growth": -0.17852497100830078
+        }
+    },
+    "BEAM": {
+        "week1Prediction": {
+            "Predicted Price": 28.792957305908203,
+            "Price Growth": 5.14295768737793
+        },
+        "week2Prediction": {
+            "Predicted Price": 28.888687133789062,
+            "Price Growth": 5.238687515258789
+        },
+        "week3Prediction": {
+            "Predicted Price": 29.879291534423828,
+            "Price Growth": 6.229291915893555
+        },
+        "week4Prediction": {
+            "Predicted Price": 30.885025024414062,
+            "Price Growth": 7.235025405883789
+        }
+    },
+    "CYBN": {
+        "week1Prediction": {
+            "Predicted Price": 15.45350170135498,
+            "Price Growth": 4.043501853942871
+        },
+        "week2Prediction": {
+            "Predicted Price": 16.006729125976562,
+            "Price Growth": 4.596729278564453
+        },
+        "week3Prediction": {
+            "Predicted Price": 17.138751983642578,
+            "Price Growth": 5.728752136230469
+        },
+        "week4Prediction": {
+            "Predicted Price": 18.629009246826172,
+            "Price Growth": 7.2190093994140625
+        }
+    },
+    "BFLY": {
+        "week1Prediction": {
+            "Predicted Price": 2.456965684890747,
+            "Price Growth": 0.6969656944274902
+        },
+        "week2Prediction": {
+            "Predicted Price": 2.58232045173645,
+            "Price Growth": 0.8223204612731934
+        },
+        "week3Prediction": {
+            "Predicted Price": 2.6552846431732178,
+            "Price Growth": 0.8952846527099609
+        },
+        "week4Prediction": {
+            "Predicted Price": 2.8279473781585693,
+            "Price Growth": 1.0679473876953125
+        }
+    },
+    "ACAD": {
+        "week1Prediction": {
+            "Predicted Price": 16.279613494873047,
+            "Price Growth": 0.9796133041381836
+        },
+        "week2Prediction": {
+            "Predicted Price": 16.235628128051758,
+            "Price Growth": 0.9356279373168945
+        },
+        "week3Prediction": {
+            "Predicted Price": 16.436059951782227,
+            "Price Growth": 1.1360597610473633
+        },
+        "week4Prediction": {
+            "Predicted Price": 16.773530960083008,
+            "Price Growth": 1.4735307693481445
+        }
+    },
+    "AI": {
+        "week1Prediction": {
+            "Predicted Price": 25.414823532104492,
+            "Price Growth": -0.2551765441894531
+        },
+        "week2Prediction": {
+            "Predicted Price": 25.789525985717773,
+            "Price Growth": 0.11952590942382812
+        },
+        "week3Prediction": {
+            "Predicted Price": 26.248031616210938,
+            "Price Growth": 0.5780315399169922
+        },
+        "week4Prediction": {
+            "Predicted Price": 25.891756057739258,
+            "Price Growth": 0.2217559814453125
+        }
+    },
+    "PLTR": {
+        "week1Prediction": {
+            "Predicted Price": 41.301841735839844,
+            "Price Growth": -1.6681594848632812
+        },
+        "week2Prediction": {
+            "Predicted Price": 43.450096130371094,
+            "Price Growth": 0.48009490966796875
+        },
+        "week3Prediction": {
+            "Predicted Price": 44.5730094909668,
+            "Price Growth": 1.6030082702636719
+        },
+        "week4Prediction": {
+            "Predicted Price": 44.44189453125,
+            "Price Growth": 1.471893310546875
+        }
+    },
+    "PATH": {
+        "week1Prediction": {
+            "Predicted Price": 13.062251091003418,
+            "Price Growth": 0.00225067138671875
+        },
+        "week2Prediction": {
+            "Predicted Price": 13.079888343811035,
+            "Price Growth": 0.019887924194335938
+        },
+        "week3Prediction": {
+            "Predicted Price": 13.216584205627441,
+            "Price Growth": 0.1565837860107422
+        },
+        "week4Prediction": {
+            "Predicted Price": 13.327585220336914,
+            "Price Growth": 0.26758480072021484
+        }
+    },
+    "DASH": {
+        "week1Prediction": {
+            "Predicted Price": 140.4183349609375,
+            "Price Growth": -11.561660766601562
+        },
+        "week2Prediction": {
+            "Predicted Price": 142.21241760253906,
+            "Price Growth": -9.767578125
+        },
+        "week3Prediction": {
+            "Predicted Price": 142.49864196777344,
+            "Price Growth": -9.481353759765625
+        },
+        "week4Prediction": {
+            "Predicted Price": 140.23532104492188,
+            "Price Growth": -11.744674682617188
+        }
+    },
+    "DLO": {
+        "week1Prediction": {
+            "Predicted Price": 11.131353378295898,
+            "Price Growth": 2.41135311126709
+        },
+        "week2Prediction": {
+            "Predicted Price": 11.542427062988281,
+            "Price Growth": 2.8224267959594727
+        },
+        "week3Prediction": {
+            "Predicted Price": 11.941596031188965,
+            "Price Growth": 3.2215957641601562
+        },
+        "week4Prediction": {
+            "Predicted Price": 12.398907661437988,
+            "Price Growth": 3.6789073944091797
+        }
+    },
+    "JOBY": {
+        "week1Prediction": {
+            "Predicted Price": 5.368345737457275,
+            "Price Growth": -0.2416543960571289
+        },
+        "week2Prediction": {
+            "Predicted Price": 5.493766784667969,
+            "Price Growth": -0.11623334884643555
+        },
+        "week3Prediction": {
+            "Predicted Price": 5.356674671173096,
+            "Price Growth": -0.2533254623413086
+        },
+        "week4Prediction": {
+            "Predicted Price": 5.278365612030029,
+            "Price Growth": -0.331634521484375
+        }
+    },
+    "SOFI": {
+        "week1Prediction": {
+            "Predicted Price": 7.974287509918213,
+            "Price Growth": -2.2057127952575684
+        },
+        "week2Prediction": {
+            "Predicted Price": 8.278178215026855,
+            "Price Growth": -1.9018220901489258
+        },
+        "week3Prediction": {
+            "Predicted Price": 8.401823043823242,
+            "Price Growth": -1.778177261352539
+        },
+        "week4Prediction": {
+            "Predicted Price": 8.26830005645752,
+            "Price Growth": -1.9117002487182617
+        }
+    },
+    "PUBM": {
+        "week1Prediction": {
+            "Predicted Price": 16.218687057495117,
+            "Price Growth": 0.9286870956420898
+        },
+        "week2Prediction": {
+            "Predicted Price": 16.382572174072266,
+            "Price Growth": 1.0925722122192383
+        },
+        "week3Prediction": {
+            "Predicted Price": 16.69725799560547,
+            "Price Growth": 1.4072580337524414
+        },
+        "week4Prediction": {
+            "Predicted Price": 17.022098541259766,
+            "Price Growth": 1.7320985794067383
+        }
+    },
+    "ZI": {
+        "week1Prediction": {
+            "Predicted Price": 21.03988265991211,
+            "Price Growth": 10.429883003234863
+        },
+        "week2Prediction": {
+            "Predicted Price": 21.698169708251953,
+            "Price Growth": 11.088170051574707
+        },
+        "week3Prediction": {
+            "Predicted Price": 23.161067962646484,
+            "Price Growth": 12.551068305969238
+        },
+        "week4Prediction": {
+            "Predicted Price": 25.256484985351562,
+            "Price Growth": 14.646485328674316
+        }
+    },
+    "VEEV": {
+        "week1Prediction": {
+            "Predicted Price": 208.35401916503906,
+            "Price Growth": -12.965988159179688
+        },
+        "week2Prediction": {
+            "Predicted Price": 208.76174926757812,
+            "Price Growth": -12.558258056640625
+        },
+        "week3Prediction": {
+            "Predicted Price": 211.10597229003906,
+            "Price Growth": -10.214035034179688
+        },
+        "week4Prediction": {
+            "Predicted Price": 211.1622772216797,
+            "Price Growth": -10.157730102539062
+        }
+    },
+    "UPWK": {
+        "week1Prediction": {
+            "Predicted Price": 11.907060623168945,
+            "Price Growth": 1.617060661315918
+        },
+        "week2Prediction": {
+            "Predicted Price": 12.008275985717773,
+            "Price Growth": 1.718276023864746
+        },
+        "week3Prediction": {
+            "Predicted Price": 12.131860733032227,
+            "Price Growth": 1.8418607711791992
+        },
+        "week4Prediction": {
+            "Predicted Price": 12.483468055725098,
+            "Price Growth": 2.1934680938720703
+        }
+    },
+    "NET": {
+        "week1Prediction": {
+            "Predicted Price": 84.7748031616211,
+            "Price Growth": -6.025199890136719
+        },
+        "week2Prediction": {
+            "Predicted Price": 87.10370635986328,
+            "Price Growth": -3.6962966918945312
+        },
+        "week3Prediction": {
+            "Predicted Price": 88.84241485595703,
+            "Price Growth": -1.9575881958007812
+        },
+        "week4Prediction": {
+            "Predicted Price": 86.8458251953125,
+            "Price Growth": -3.9541778564453125
+        }
+    },
+    "FVRR": {
+        "week1Prediction": {
+            "Predicted Price": 31.281856536865234,
+            "Price Growth": 8.901857376098633
+        },
+        "week2Prediction": {
+            "Predicted Price": 31.135629653930664,
+            "Price Growth": 8.755630493164062
+        },
+        "week3Prediction": {
+            "Predicted Price": 32.18330001831055,
+            "Price Growth": 9.803300857543945
+        },
+        "week4Prediction": {
+            "Predicted Price": 34.052852630615234,
+            "Price Growth": 11.672853469848633
+        }
+    },
+    "GTLB": {
+        "week1Prediction": {
+            "Predicted Price": 50.72197723388672,
+            "Price Growth": -4.618022918701172
+        },
+        "week2Prediction": {
+            "Predicted Price": 51.01837921142578,
+            "Price Growth": -4.321620941162109
+        },
+        "week3Prediction": {
+            "Predicted Price": 51.573455810546875,
+            "Price Growth": -3.7665443420410156
+        },
+        "week4Prediction": {
+            "Predicted Price": 50.87722396850586,
+            "Price Growth": -4.462776184082031
+        }
+    },
+    "LE": {
+        "week1Prediction": {
+            "Predicted Price": 17.0192813873291,
+            "Price Growth": -0.6607189178466797
+        },
+        "week2Prediction": {
+            "Predicted Price": 17.033540725708008,
+            "Price Growth": -0.6464595794677734
+        },
+        "week3Prediction": {
+            "Predicted Price": 17.220069885253906,
+            "Price Growth": -0.459930419921875
+        },
+        "week4Prediction": {
+            "Predicted Price": 17.26244354248047,
+            "Price Growth": -0.4175567626953125
+        }
+    },
+    "LSPD": {
+        "week1Prediction": {
+            "Predicted Price": 18.008394241333008,
+            "Price Growth": 2.2183942794799805
+        },
+        "week2Prediction": {
+            "Predicted Price": 17.960872650146484,
+            "Price Growth": 2.170872688293457
+        },
+        "week3Prediction": {
+            "Predicted Price": 18.28105354309082,
+            "Price Growth": 2.491053581237793
+        },
+        "week4Prediction": {
+            "Predicted Price": 18.832460403442383,
+            "Price Growth": 3.0424604415893555
+        }
+    },
+    "AKAM": {
+        "week1Prediction": {
+            "Predicted Price": 102.95110321044922,
+            "Price Growth": -3.7188949584960938
+        },
+        "week2Prediction": {
+            "Predicted Price": 103.65326690673828,
+            "Price Growth": -3.0167312622070312
+        },
+        "week3Prediction": {
+            "Predicted Price": 104.42535400390625,
+            "Price Growth": -2.2446441650390625
+        },
+        "week4Prediction": {
+            "Predicted Price": 104.42363739013672,
+            "Price Growth": -2.2463607788085938
+        }
+    },
+    "AFRM": {
+        "week1Prediction": {
+            "Predicted Price": 39.505470275878906,
+            "Price Growth": -5.0345306396484375
+        },
+        "week2Prediction": {
+            "Predicted Price": 40.03476333618164,
+            "Price Growth": -4.505237579345703
+        },
+        "week3Prediction": {
+            "Predicted Price": 40.9904899597168,
+            "Price Growth": -3.549510955810547
+        },
+        "week4Prediction": {
+            "Predicted Price": 39.01508712768555,
+            "Price Growth": -5.524913787841797
+        }
+    },
+    "NVCR": {
+        "week1Prediction": {
+            "Predicted Price": 39.20796585083008,
+            "Price Growth": 21.997966766357422
+        },
+        "week2Prediction": {
+            "Predicted Price": 40.7081184387207,
+            "Price Growth": 23.498119354248047
+        },
+        "week3Prediction": {
+            "Predicted Price": 44.03617858886719,
+            "Price Growth": 26.82617950439453
+        },
+        "week4Prediction": {
+            "Predicted Price": 48.83268737792969,
+            "Price Growth": 31.62268829345703
+        }
+    },
+    "TWST": {
+        "week1Prediction": {
+            "Predicted Price": 47.10898971557617,
+            "Price Growth": 0.17898941040039062
+        },
+        "week2Prediction": {
+            "Predicted Price": 46.87460708618164,
+            "Price Growth": -0.055393218994140625
+        },
+        "week3Prediction": {
+            "Predicted Price": 47.85881805419922,
+            "Price Growth": 0.9288177490234375
+        },
+        "week4Prediction": {
+            "Predicted Price": 48.72515869140625,
+            "Price Growth": 1.7951583862304688
+        }
+    },
+    "BNTX": {
+        "week1Prediction": {
+            "Predicted Price": 121.64303588867188,
+            "Price Growth": 9.873039245605469
+        },
+        "week2Prediction": {
+            "Predicted Price": 121.79010772705078,
+            "Price Growth": 10.020111083984375
+        },
+        "week3Prediction": {
+            "Predicted Price": 120.76406860351562,
+            "Price Growth": 8.994071960449219
+        },
+        "week4Prediction": {
+            "Predicted Price": 120.59403991699219,
+            "Price Growth": 8.824043273925781
+        }
+    },
+    "SAGE": {
+        "week1Prediction": {
+            "Predicted Price": 19.01083755493164,
+            "Price Growth": 11.440837383270264
+        },
+        "week2Prediction": {
+            "Predicted Price": 19.843233108520508,
+            "Price Growth": 12.27323293685913
+        },
+        "week3Prediction": {
+            "Predicted Price": 21.708555221557617,
+            "Price Growth": 14.13855504989624
+        },
+        "week4Prediction": {
+            "Predicted Price": 24.432775497436523,
+            "Price Growth": 16.862775325775146
+        }
+    },
+    "ALLO": {
+        "week1Prediction": {
+            "Predicted Price": 5.748702526092529,
+            "Price Growth": 2.9087026119232178
+        },
+        "week2Prediction": {
+            "Predicted Price": 5.932707786560059,
+            "Price Growth": 3.092707872390747
+        },
+        "week3Prediction": {
+            "Predicted Price": 6.415890216827393,
+            "Price Growth": 3.575890302658081
+        },
+        "week4Prediction": {
+            "Predicted Price": 7.164658546447754,
+            "Price Growth": 4.324658632278442
+        }
+    },
+    "BBIO": {
+        "week1Prediction": {
+            "Predicted Price": 24.567535400390625,
+            "Price Growth": -1.4524650573730469
+        },
+        "week2Prediction": {
+            "Predicted Price": 24.716537475585938,
+            "Price Growth": -1.3034629821777344
+        },
+        "week3Prediction": {
+            "Predicted Price": 24.694198608398438,
+            "Price Growth": -1.3258018493652344
+        },
+        "week4Prediction": {
+            "Predicted Price": 24.359525680541992,
+            "Price Growth": -1.6604747772216797
+        }
+    },
+    "CRBU": {
+        "week1Prediction": {
+            "Predicted Price": 3.0354511737823486,
+            "Price Growth": 1.0354511737823486
+        },
+        "week2Prediction": {
+            "Predicted Price": 3.118053436279297,
+            "Price Growth": 1.1180534362792969
+        },
+        "week3Prediction": {
+            "Predicted Price": 3.314541816711426,
+            "Price Growth": 1.3145418167114258
+        },
+        "week4Prediction": {
+            "Predicted Price": 3.5886926651000977,
+            "Price Growth": 1.5886926651000977
+        }
+    },
+    "CRSP": {
+        "week1Prediction": {
+            "Predicted Price": 53.15666198730469,
+            "Price Growth": 4.236663818359375
+        },
+        "week2Prediction": {
+            "Predicted Price": 53.703433990478516,
+            "Price Growth": 4.783435821533203
+        },
+        "week3Prediction": {
+            "Predicted Price": 55.358970642089844,
+            "Price Growth": 6.438972473144531
+        },
+        "week4Prediction": {
+            "Predicted Price": 57.164306640625,
+            "Price Growth": 8.244308471679688
+        }
+    },
+    "EXAS": {
+        "week1Prediction": {
+            "Predicted Price": 68.87146759033203,
+            "Price Growth": -3.05853271484375
+        },
+        "week2Prediction": {
+            "Predicted Price": 70.1553726196289,
+            "Price Growth": -1.774627685546875
+        },
+        "week3Prediction": {
+            "Predicted Price": 70.75861358642578,
+            "Price Growth": -1.17138671875
+        },
+        "week4Prediction": {
+            "Predicted Price": 70.5653076171875,
+            "Price Growth": -1.3646926879882812
+        }
+    },
+    "FATE": {
+        "week1Prediction": {
+            "Predicted Price": 11.622714042663574,
+            "Price Growth": 8.392714023590088
+        },
+        "week2Prediction": {
+            "Predicted Price": 12.147015571594238,
+            "Price Growth": 8.917015552520752
+        },
+        "week3Prediction": {
+            "Predicted Price": 13.416348457336426,
+            "Price Growth": 10.18634843826294
+        },
+        "week4Prediction": {
+            "Predicted Price": 15.411210060119629,
+            "Price Growth": 12.181210041046143
+        }
+    },
+    "GH": {
+        "week1Prediction": {
+            "Predicted Price": 34.532859802246094,
+            "Price Growth": 13.152860641479492
+        },
+        "week2Prediction": {
+            "Predicted Price": 35.20735168457031,
+            "Price Growth": 13.827352523803711
+        },
+        "week3Prediction": {
+            "Predicted Price": 37.03062057495117,
+            "Price Growth": 15.65062141418457
+        },
+        "week4Prediction": {
+            "Predicted Price": 40.052730560302734,
+            "Price Growth": 18.672731399536133
+        }
+    },
+    "NTLA": {
+        "week1Prediction": {
+            "Predicted Price": 25.452617645263672,
+            "Price Growth": 4.372617721557617
+        },
+        "week2Prediction": {
+            "Predicted Price": 25.612220764160156,
+            "Price Growth": 4.532220840454102
+        },
+        "week3Prediction": {
+            "Predicted Price": 27.145174026489258,
+            "Price Growth": 6.065174102783203
+        },
+        "week4Prediction": {
+            "Predicted Price": 29.051801681518555,
+            "Price Growth": 7.9718017578125
+        }
+    },
+    "PSTG": {
+        "week1Prediction": {
+            "Predicted Price": 50.24267578125,
+            "Price Growth": -6.827323913574219
+        },
+        "week2Prediction": {
+            "Predicted Price": 51.48564529418945,
+            "Price Growth": -5.584354400634766
+        },
+        "week3Prediction": {
+            "Predicted Price": 52.021488189697266,
+            "Price Growth": -5.048511505126953
+        },
+        "week4Prediction": {
+            "Predicted Price": 51.703365325927734,
+            "Price Growth": -5.366634368896484
+        }
+    },
+    "VERU": {
+        "week1Prediction": {
+            "Predicted Price": 2.077321767807007,
+            "Price Growth": 1.232821762561798
+        },
+        "week2Prediction": {
+            "Predicted Price": 2.2041397094726562,
+            "Price Growth": 1.3596397042274475
+        },
+        "week3Prediction": {
+            "Predicted Price": 2.441314458847046,
+            "Price Growth": 1.5968144536018372
+        },
+        "week4Prediction": {
+            "Predicted Price": 2.7591662406921387,
+            "Price Growth": 1.91466623544693
+        }
+    },
+    "XFOR": {
+        "week1Prediction": {
+            "Predicted Price": 0.9538556337356567,
+            "Price Growth": 0.43435561656951904
+        },
+        "week2Prediction": {
+            "Predicted Price": 0.9560186862945557,
+            "Price Growth": 0.43651866912841797
+        },
+        "week3Prediction": {
+            "Predicted Price": 0.9974741339683533,
+            "Price Growth": 0.4779741168022156
+        },
+        "week4Prediction": {
+            "Predicted Price": 1.104835867881775,
+            "Price Growth": 0.5853358507156372
+        }
+    },
+    "ANET": {
+        "week1Prediction": {
+            "Predicted Price": 335.5653991699219,
+            "Price Growth": -66.43460083007812
+        },
+        "week2Prediction": {
+            "Predicted Price": 336.4447326660156,
+            "Price Growth": -65.55526733398438
+        },
+        "week3Prediction": {
+            "Predicted Price": 332.6877746582031,
+            "Price Growth": -69.31222534179688
+        },
+        "week4Prediction": {
+            "Predicted Price": 320.8157958984375,
+            "Price Growth": -81.1842041015625
+        }
+    },
+    "BSY": {
+        "week1Prediction": {
+            "Predicted Price": 49.23024368286133,
+            "Price Growth": -0.7097549438476562
+        },
+        "week2Prediction": {
+            "Predicted Price": 48.828189849853516,
+            "Price Growth": -1.1118087768554688
+        },
+        "week3Prediction": {
+            "Predicted Price": 49.056304931640625,
+            "Price Growth": -0.8836936950683594
+        },
+        "week4Prediction": {
+            "Predicted Price": 48.539310455322266,
+            "Price Growth": -1.4006881713867188
+        }
+    },
+    "HUBS": {
+        "week1Prediction": {
+            "Predicted Price": 533.348388671875,
+            "Price Growth": -3.7916259765625
+        },
+        "week2Prediction": {
+            "Predicted Price": 535.0673217773438,
+            "Price Growth": -2.07269287109375
+        },
+        "week3Prediction": {
+            "Predicted Price": 536.56640625,
+            "Price Growth": -0.5736083984375
+        },
+        "week4Prediction": {
+            "Predicted Price": 527.7401123046875,
+            "Price Growth": -9.39990234375
+        }
+    },
+    "SHOP": {
+        "week1Prediction": {
+            "Predicted Price": 78.84944915771484,
+            "Price Growth": -3.8305511474609375
+        },
+        "week2Prediction": {
+            "Predicted Price": 79.69068145751953,
+            "Price Growth": -2.98931884765625
+        },
+        "week3Prediction": {
+            "Predicted Price": 79.12313079833984,
+            "Price Growth": -3.5568695068359375
+        },
+        "week4Prediction": {
+            "Predicted Price": 77.94316101074219,
+            "Price Growth": -4.736839294433594
+        }
+    },
+    "ROKU": {
+        "week1Prediction": {
+            "Predicted Price": 87.31443786621094,
+            "Price Growth": 7.244438171386719
+        },
+        "week2Prediction": {
+            "Predicted Price": 89.24618530273438,
+            "Price Growth": 9.176185607910156
+        },
+        "week3Prediction": {
+            "Predicted Price": 91.7706069946289,
+            "Price Growth": 11.700607299804688
+        },
+        "week4Prediction": {
+            "Predicted Price": 94.5676498413086,
+            "Price Growth": 14.497650146484375
+        }
+    },
+    "WOLF": {
+        "week1Prediction": {
+            "Predicted Price": 28.837690353393555,
+            "Price Growth": 12.827690124511719
+        },
+        "week2Prediction": {
+            "Predicted Price": 30.701416015625,
+            "Price Growth": 14.691415786743164
+        },
+        "week3Prediction": {
+            "Predicted Price": 34.09543228149414,
+            "Price Growth": 18.085432052612305
+        },
+        "week4Prediction": {
+            "Predicted Price": 38.34926223754883,
+            "Price Growth": 22.339262008666992
+        }
+    },
+    "YY": {
+        "week1Prediction": {
+            "Predicted Price": 38.5241813659668,
+            "Price Growth": 4.994182586669922
+        },
+        "week2Prediction": {
+            "Predicted Price": 38.11074447631836,
+            "Price Growth": 4.580745697021484
+        },
+        "week3Prediction": {
+            "Predicted Price": 38.2956428527832,
+            "Price Growth": 4.765644073486328
+        },
+        "week4Prediction": {
+            "Predicted Price": 38.57427978515625,
+            "Price Growth": 5.044281005859375
+        }
+    },
+    "Z": {
+        "week1Prediction": {
+            "Predicted Price": 62.341407775878906,
+            "Price Growth": -1.36859130859375
+        },
+        "week2Prediction": {
+            "Predicted Price": 61.48354721069336,
+            "Price Growth": -2.226451873779297
+        },
+        "week3Prediction": {
+            "Predicted Price": 61.40591049194336,
+            "Price Growth": -2.304088592529297
+        },
+        "week4Prediction": {
+            "Predicted Price": 61.204742431640625,
+            "Price Growth": -2.5052566528320312
+        }
+    },
+    "ZG": {
+        "week1Prediction": {
+            "Predicted Price": 62.021888732910156,
+            "Price Growth": 0.35189056396484375
+        },
+        "week2Prediction": {
+            "Predicted Price": 61.382755279541016,
+            "Price Growth": -0.2872428894042969
+        },
+        "week3Prediction": {
+            "Predicted Price": 61.55173110961914,
+            "Price Growth": -0.11826705932617188
+        },
+        "week4Prediction": {
+            "Predicted Price": 61.81016540527344,
+            "Price Growth": 0.140167236328125
+        }
+    },
+    "XNET": {
+        "week1Prediction": {
+            "Predicted Price": 2.085012912750244,
+            "Price Growth": 0.08501291275024414
+        },
+        "week2Prediction": {
+            "Predicted Price": 2.1545586585998535,
+            "Price Growth": 0.15455865859985352
+        },
+        "week3Prediction": {
+            "Predicted Price": 2.1212961673736572,
+            "Price Growth": 0.12129616737365723
+        },
+        "week4Prediction": {
+            "Predicted Price": 2.1450204849243164,
+            "Price Growth": 0.1450204849243164
+        }
+    },
+    "VRRM": {
+        "week1Prediction": {
+            "Predicted Price": 24.12507438659668,
+            "Price Growth": -2.9949264526367188
+        },
+        "week2Prediction": {
+            "Predicted Price": 23.69483757019043,
+            "Price Growth": -3.4251632690429688
+        },
+        "week3Prediction": {
+            "Predicted Price": 23.286211013793945,
+            "Price Growth": -3.833789825439453
+        },
+        "week4Prediction": {
+            "Predicted Price": 22.42371368408203,
+            "Price Growth": -4.696287155151367
+        }
+    },
+    "ZWS": {
+        "week1Prediction": {
+            "Predicted Price": 35.051082611083984,
+            "Price Growth": -2.348918914794922
+        },
+        "week2Prediction": {
+            "Predicted Price": 35.23027801513672,
+            "Price Growth": -2.1697235107421875
+        },
+        "week3Prediction": {
+            "Predicted Price": 35.07577896118164,
+            "Price Growth": -2.3242225646972656
+        },
+        "week4Prediction": {
+            "Predicted Price": 34.7617073059082,
+            "Price Growth": -2.638294219970703
+        }
+    },
+    "ZLAB": {
+        "week1Prediction": {
+            "Predicted Price": 32.13283157348633,
+            "Price Growth": 4.642831802368164
+        },
+        "week2Prediction": {
+            "Predicted Price": 33.375980377197266,
+            "Price Growth": 5.885980606079102
+        },
+        "week3Prediction": {
+            "Predicted Price": 34.424068450927734,
+            "Price Growth": 6.93406867980957
+        },
+        "week4Prediction": {
+            "Predicted Price": 36.379390716552734,
+            "Price Growth": 8.88939094543457
+        }
+    },
+    "XOMA": {
+        "week1Prediction": {
+            "Predicted Price": 26.56749153137207,
+            "Price Growth": -2.832508087158203
+        },
+        "week2Prediction": {
+            "Predicted Price": 27.05867576599121,
+            "Price Growth": -2.3413238525390625
+        },
+        "week3Prediction": {
+            "Predicted Price": 26.990625381469727,
+            "Price Growth": -2.409374237060547
+        },
+        "week4Prediction": {
+            "Predicted Price": 26.862287521362305,
+            "Price Growth": -2.5377120971679688
+        }
+    },
+    "XENE": {
+        "week1Prediction": {
+            "Predicted Price": 41.667259216308594,
+            "Price Growth": -3.1927413940429688
+        },
+        "week2Prediction": {
+            "Predicted Price": 43.22358322143555,
+            "Price Growth": -1.6364173889160156
+        },
+        "week3Prediction": {
+            "Predicted Price": 44.124698638916016,
+            "Price Growth": -0.7353019714355469
+        },
+        "week4Prediction": {
+            "Predicted Price": 45.0572624206543,
+            "Price Growth": 0.19726181030273438
+        }
+    },
+    "XELB": {
+        "week1Prediction": {
+            "Predicted Price": 0.8385806679725647,
+            "Price Growth": 0.048680663108825684
+        },
+        "week2Prediction": {
+            "Predicted Price": 0.8499273061752319,
+            "Price Growth": 0.06002730131149292
+        },
+        "week3Prediction": {
+            "Predicted Price": 0.8630235195159912,
+            "Price Growth": 0.0731235146522522
+        },
+        "week4Prediction": {
+            "Predicted Price": 0.8951583504676819,
+            "Price Growth": 0.10525834560394287
+        }
+    }
+}
